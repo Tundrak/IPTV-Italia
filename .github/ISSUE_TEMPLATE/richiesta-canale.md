@@ -3,7 +3,7 @@ name: Richiesta Canale
 about: Per chiedere il supporto di un nuovo canale TV / Radio all'interno di una delle
   due liste
 title: "[Richiesta Canale]"
-labels: ''
+labels: Richiesta canale
 assignees: ''
 
 ---

@@ -2,7 +2,7 @@
 name: Problema Canale
 about: Per riportare problemi in un elemento di una delle liste
 title: "[Problema]"
-labels: ''
+labels: Problema
 assignees: ''
 
 ---
