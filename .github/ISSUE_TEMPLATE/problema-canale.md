@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **Canale TV / Radio interessato**
-Quale canale TV / Radio ha il problema che vuoi descrivere?
+Quale canale TV / Radio ha il problema che vuoi descrivere? In quale lista risiede? (È regionale?)
 
 **Descrivi il problema**
 Descrivi brevemente e in modo conciso qual è il problema.

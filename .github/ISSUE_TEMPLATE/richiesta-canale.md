@@ -10,7 +10,7 @@ assignees: ''
 
 **Canale Richiesto**
 Scrivi il nome completo del canale TV / Radio che vuoi aggiunto in una delle due liste [es. Rai 1]
-Solo canali nazionali verranno accettati.
+Se il canale è regionale, specificalo e indica la regione d'appartenenza.
 
 **URL Streaming**
 Copia il link del sito internet ufficiale del canale da cui puoi vedere / sentire la diretta. [es. https://www.raiplay.it/dirette/rai1]
