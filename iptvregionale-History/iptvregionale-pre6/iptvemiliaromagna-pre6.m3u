@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:-1,[10] èTV Rete 7
+https://live.ipstream.it/etv/etv.stream/playlist.m3u8
+#EXTINF:-1,[11] Teleromagna 24
+https://livetr.teleromagna.it/mia/live/playlist.m3u8
+#EXTINF:-1,[12] 12 TV PARMA
+https://meridelive01-lh.akamaihd.net/i/tvparma_1@356964/master.m3u8
+#EXTINF:-1,[14] Teleromagna
+https://livetr.teleromagna.it/teleromagna/live/playlist.m3u8
+#EXTINF:-1,[16] Telestense
+https://5e73cf528f404.streamlock.net/TeleEstense/livestream/playlist.m3u8
+#EXTINF:-1,[19] TVQUI
+https://59d8c0cee6f3d.streamlock.net/tvqui/tvqui/playlist.m3u8
+#EXTINF:-1,[71] Radio Bruno
+https://stream7.xdevel.com/video0s975758-1051/stream/playlist.m3u8
+#EXTINF:-1,[74] Teleromagna Mia
+https://livetr.teleromagna.it/news/live/playlist.m3u8
+#EXTINF:-1,[77] Anni 60 TV
+https://5f204aff97bee.streamlock.net/Anni60TV/livestream/playlist.m3u8
+#EXTINF:-1,[85] TVB Studio 85
+https://5f22d76e220e1.streamlock.net/Tvbstudio85/Tvbstudio85/playlist.m3u8
+#EXTINF:-1,[86] Rete 8 VGA
+https://604e46ac2bdee.streamlock.net:1936/rete8_1/rete8_1/playlist.m3u8
+#EXTINF:-1,[90] DI.TV
+https://media2021.rtvweb.com/di_tv_90/live/playlist.m3u8
+#EXTINF:-1,[91] Icaro TV
+https://59d8c0cee6f3d.streamlock.net/icarotv/icarotv/playlist.m3u8
+#EXTINF:-1,[92] DI.TV 92
+https://media2021.rtvweb.com/di_tv_92/live/playlist.m3u8
+#EXTINF:-1,[93] Giovanni Paolo TV
+https://media2021.rtvweb.com/giovannipaolotv/web/playlist.m3u8
+#EXTINF:-1,[194] Radio 4 You TV
+https://5926fc9c7c5b2.streamlock.net/9018/9018/playlist.m3u8
+#EXTINF:-1,[620] Teletricolore
+https://59d8c0cee6f3d.streamlock.net/rs2/rs2/playlist.m3u8
+#EXTINF:-1,[666] Radio Italia Vision
+https://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
+#EXTINF:-1,[670] Radio Studio Delta TV
+https://5ce9406b73c33.streamlock.net/RSD/ngrp:livestream_all/playlist.m3u8
+#EXTINF:-1,[885] Telepiadena
+https://stream3.xdevel.com/video0s975441-151/stream/playlist_dvr.m3u8
