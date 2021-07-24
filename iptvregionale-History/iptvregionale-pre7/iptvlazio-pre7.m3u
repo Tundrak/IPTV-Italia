@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1,[10] Canale 21
+https://stream.mariatvcdn.com/canaleventunodue/61d14e72c90980498c9d7cee64fde847.sdp/playlist.m3u8
+#EXTINF:-1,[12] Lazio TV
+https://5f11919dca3bd.streamlock.net/live/LAZIOTV12/playlist.m3u8
+#EXTINF:-1,[13] T9
+https://5f11919dca3bd.streamlock.net/t9/t9/playlist.m3u8
+#EXTINF:-1,[16] Teleuniverso
+https://media.velcom.it:19360/teleuniverso/teleuniverso.m3u8
+#EXTINF:-1,[17] Gold TV
+https://5f11919dca3bd.streamlock.net/GoldTV/GOLD_17/playlist.m3u8
+#EXTINF:-1,[18] Rete Oro
+https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8
+#EXTINF:-1,[19] Canale 10
+https://canale10.cloud:33443/ch10live/high.stream/manifest.mpd
+#EXTINF:-1,[71] Roma CH 71
+https://5f11919dca3bd.streamlock.net/ROMACH71/CH71/playlist.m3u8
+#EXTINF:-1,[71] Tele Radio Orte
+https://flash2.xdevel.com/ortetv/ortetv/manifest.mpd
+#EXTINF:-1,[74] NSL
+https://streannunsec-lh.akamaihd.net/i/tv_1@868496/master.m3u8
+#EXTINF:-1,[79] Vera TV
+https://59d8c0cee6f3d.streamlock.net/veratv/veratv/playlist.m3u8
+#EXTINF:-1,[115] Radio Roma
+https://585b674743bbb.streamlock.net/9044/9044/playlist.m3u8
+#EXTINF:-1,[119] Teletibur
+https://57068da1deb21.streamlock.net/teletibur/teletibur/playlist.m3u8
+#EXTINF:-1,[172] Telesabina2000
+https://streaming.ts2000tv.it:30443/ts2000tv/ts2000tv/playlist.m3u8
+#EXTINF:-1,[271] Teleromauno
+https://flash2.xdevel.com/teleromauno/teleromauno/manifest.mpd
+#EXTINF:-1,[610] Danemi Radio TV
+https://vdo.mediacp.eu:3754/live/ypqflvwklive.m3u8
+#EXTINF:-1,[629] Telelazionord
+http://tln.srfms.com:1935/TLN/livestream/playlist.m3u8
+#EXTINF:-1,[680] RTR99TV
+https://5e73cf528f404.streamlock.net/RTR99TV/livestream/playlist.m3u8
+#EXTINF:-1,[686] Simply TV
+https://stream9.xdevel.com/video0s975968-809/stream/playlist.m3u8
+#EXTINF:-1,[696] StandBy Tv
+https://5eb4489e212e8.streamlock.net/standbytv/standbytv/playlist.m3u8
+#EXTINF:-1,[697] RadioColonna TV
+https://5f22d76e220e1.streamlock.net/rctv/rctv/playlist.m3u8

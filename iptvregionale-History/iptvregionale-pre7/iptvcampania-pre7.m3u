@@ -1,0 +1,71 @@
+#EXTM3U
+#EXTINF:-1,[12] Canale 21
+https://stream.mariatvcdn.com/canaleventuno/f5d2060b3682e0dfffd5b2f18e935ad3.sdp/playlist.m3u8
+#EXTINF:-1,[13] Canale Otto
+https://59d8c0cee6f3d.streamlock.net/canale8/canale8/playlist.m3u8
+#EXTINF:-1,[14] TV Luna Napoli
+https://streamlive.arcapuglia.it:8080/live/teleluna/index.m3u8
+#EXTINF:-1,[15] Lira Tv
+https://5e06222f4d978.streamlock.net/liratv/liratv1500/playlist.m3u8
+#EXTINF:-1,[18] Tele A
+https://lostream.it/hls/telea/video.m3u8
+#EXTINF:-1,[78] YES TV
+https://stream1.aswifi.it/radioyes/live/index.m3u8
+#EXTINF:-1,[86] Media TV
+https://5cbd3bc28341f.streamlock.net:444//mediatv/live/playlist.m3u8
+#EXTINF:-1,[87] 87 TV
+https://eu1.servers10.com:8081/8022/index.m3u8
+#EXTINF:-1,[88] Videonola
+https://stream1.aswifi.it/videonola/live/index.m3u8
+#EXTINF:-1,[89] Teleischia
+https://eu1.servers10.com:8081/8130/index.m3u8
+#EXTINF:-1,[90] Primativvù
+https://streamtechglobal.akamaized.net/hls/live/2024751/primativvu/Group02/playlist.m3u8
+#EXTINF:-1,[91] Teleprima
+https://5cbd3bc28341f.streamlock.net:444/teleprima/live/playlist.m3u8
+#EXTINF:-1,[94] TV7
+https://msh0320.stream.seeweb.it/live/flv:tv7.sdp/playlist.m3u8
+#EXTINF:-1,[111] ABC Digital
+https://streamlive.arcapuglia.it:8080/live/abctv/index.m3u8
+#EXTINF:-1,[277] Italia 2
+https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8
+#EXTINF:-1,[602] TeleradioErcolano
+https://eu1.servers10.com:8081/8012/index.m3u8
+#EXTINF:-1,[619] StileTV
+http://convision2.convergenze.it/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8
+#EXTINF:-1,[620] CRC Targato Italia
+https://flash2.xdevel.com/crctv/crctv/manifest.mpd
+#EXTINF:-1,[627] Paradise TV
+https://tsw.streamingwebtv24.it:1936/paradisetv/paradisetv/playlist.m3u8
+#EXTINF:-1,[628] Teledehon
+https://5f22d76e220e1.streamlock.net/Teledehon/smil:Teledehon.smil/playlist.m3u8
+#EXTINF:-1,[634] Telelaser
+https://585b674743bbb.streamlock.net/9022/9022/playlist.m3u8
+#EXTINF:-1,[645] TV Campane 1
+https://eu1.servers10.com:8081/8032/index.m3u8
+#EXTINF:-1,[648] Quarto Canale
+https://live.mariatvcdn.com/dialogos/171e41deedf405f10c7dd6311387fb43.sdp/index.m3u8
+#EXTINF:-1,[654] RTC Quarta Rete
+https://msh0232.stream.seeweb.it/live/stream00.sdp/playlist.m3u8
+#EXTINF:-1,[655] Radio Marte TV
+https://router.xdevel.com/video0s975753-750/stream/playlist.m3u8
+#EXTINF:-1,[670] Teleoltre
+http://1so1.troydesign.eu/np_teleoltre/channel1_np_teleoltre/playlist.m3u8
+#EXTINF:-1,[674] KISS KISS TV Napoli
+https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
+#EXTINF:-1,[696] OttoChannel
+https://meridelive-lh.akamaihd.net/i/ottop_1@118465/master.m3u8
+#EXTINF:-1,[827] Ora TV
+https://5db313b643fd8.streamlock.net/OraTv/OraTv/playlist.m3u8
+#EXTINF:-1,[855] Canale Uno
+https://eu1.servers10.com:8081/8096/index.m3u8
+#EXTINF:-1,[873] Prima TV Napoli
+https://stream1.aswifi.it/primatvnapoli/live/index.m3u8
+#EXTINF:-1,[875] TV Campane 2
+https://eu1.servers10.com:8081/8024/index.m3u8
+#EXTINF:-1,[885] RTC Targato Napoli
+https://eu1.servers10.com:8081/8014/index.m3u8
+#EXTINF:-1,[889] Magic Music Tv
+https://eu1.servers10.com:8081/8016/index.m3u8
+#EXTINF:-1,[897] Radio Stereo 5 TV
+https://stream1.aswifi.it/stereo5/live/index.m3u8
