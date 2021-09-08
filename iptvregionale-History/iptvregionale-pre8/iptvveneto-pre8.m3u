@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:-1,[10] TVA VICENZA
+https://fms.telemar.it:1936/live/diretta_1/playlist.m3u
+#EXTINF:-1,[10] Telebelluno
+https://live.mariatvcdn.com/telebelluno/a3b80388da9801906adf885282e73bc3.sdp/mono.m3u8
+#EXTINF:-1,[12] TV7 Triveneta Network
+https://www.gruppotv7.com:8090/hls/triveneta.m3u8
+#EXTINF:-1,[13] Antenna Tre
+https://59d8c0cee6f3d.streamlock.net/antennatreveneto/antennatreveneto.stream/playlist.m3u8
+#EXTINF:-1,[16] Telearena
+https://58d921499d3d3.streamlock.net/TeleArena/TeleArena.stream/playlist.m3u8
+#EXTINF:-1,[18] Rete Veneta
+https://59d8c0cee6f3d.streamlock.net/reteveneta/reteveneta/playlist.m3u8
+#EXTINF:-1,[71] Televenezia
+https://59d8c0cee6f3d.streamlock.net/televenezia/televenezia/playlist.m3u8
+#EXTINF:-1,[72] Canale 68
+https://dotfvxkfj90ca.cloudfront.net/programming/canale68italianissima/playlist.m3u8
+#EXTINF:-1,[74] Radio Sorriso Tv
+https://56b50ada2d659.streamlock.net/RadioSorrrisoTV/livestream/playlist.m3u8
+#EXTINF:-1,[85] Radio Birikina TV
+https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8
+#EXTINF:-1,[86] CafèTV 24
+https://srvx1.selftv.video/cafe/live/playlist.m3u8
+#EXTINF:-1,[87] TV7 News
+https://www.gruppotv7.com:8090/hls/news.m3u8
+#EXTINF:-1,[88] TV7 Azzurra il13
+https://www.gruppotv7.com:8090/hls/azzurra.m3u8
+#EXTINF:-1,[118] TV7 Meteo
+https://www.gruppotv7.com:8090/hls/meteo.m3u8
+#EXTINF:-1,[119] Company TV
+https://605dcd3a4c57e.streamlock.net/CompanyTV/livestream_720p/playlist.m3u8
+#EXTINF:-1,[272] Piterpan TV
+https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8
+#EXTINF:-1,[604] Telechiara
+https://fms.telemar.it:1936/telechiara/diretta/playlist.m3u
+#EXTINF:-1,[611] Bellla&Monella TV
+https://58d921499d3d3.streamlock.net/RadioBelllaemonellaTV/livestream/playlist.m3u8
+#EXTINF:-1,[640] Radio Adige TV
+https://flash7.xdevel.com/veronanetwork/veronanetwork/manifest.mpd
+#EXTINF:-1,[673] Love in Venice
+https://59d7d6f47d7fc.streamlock.net/loveinvenice/loveinvenice/playlist.m3u8

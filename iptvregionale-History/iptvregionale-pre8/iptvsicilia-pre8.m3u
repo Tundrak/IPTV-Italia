@@ -1,0 +1,77 @@
+#EXTM3U
+#EXTINF:-1,[11] VideoMediterraneo
+https://stream.ets-sistemi.it:1935/live.rvm/rvmtv/playlist.m3u8
+#EXTINF:-1,[17] RTP
+https://router.xdevel.com/video0s975966-797/stream/playlist.m3u8
+#EXTINF:-1,[17] Telerent 7 Gold
+https://router.xdevel.com/video0s86-21/stream/playlist_dvr.m3u8
+#EXTINF:-1,[19] TeleRadioSciacca
+https://5cbd3bc28341f.streamlock.net:444/trs_live/teleradiosciacca-tv/playlist.m3u8
+#EXTINF:-1,[19] Tele One
+https://5cbd3bc28341f.streamlock.net:444/mediaone_live/teleone/playlist.m3u8
+#EXTINF:-1,[73] TeleOccidente
+https://ciaoitalystream.ddns.net/live/webTELEOCCIDENTEweb/montelepre@palermo/2.m3u8
+#EXTINF:-1,[74] Canale 74
+http://stream.ets-sistemi.it:1935/live.canale74/canale74tv/playlist.m3u8
+#EXTINF:-1,[78] Gold 78
+https://stream2.xdevel.com/video1s86-22/stream/playlist_dvr.m3u8
+#EXTINF:-1,[85] Onda TV
+https://5926fc9c7c5b2.streamlock.net/9040/9040/playlist.m3u8
+#EXTINF:-1,[87] Prima TV
+https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/playlist.m3u8
+#EXTINF:-1,[88] Teleacras
+https://5cbd3bc28341f.streamlock.net:444/teleacras/live/playlist.m3u8
+#EXTINF:-1,[91] Radio Time TV
+https://router.xdevel.com/video0s975521-196/stream/playlist.m3u8
+#EXTINF:-1,[92] TeleVideoAgrigento
+https://59d7d6f47d7fc.streamlock.net/tva/tva/playlist.m3u8
+#EXTINF:-1,[110] Teleiblea
+https://5f22d76e220e1.streamlock.net/teleiblea/teleiblea/playlist.m3u8
+#EXTINF:-1,[113] TCF
+https://5cbd3bc28341f.streamlock.net:444/tcf_live/telecineforum/playlist.m3u8
+#EXTINF:-1,[114] PersonaTV
+https://5db313b643fd8.streamlock.net/PersonaTV/PersonaTV/playlist.m3u8
+#EXTINF:-1,[117] Alpauno
+https://5cbd3bc28341f.streamlock.net:444/alpauno/alpauno/playlist.m3u8
+#EXTINF:-1,[118] Telesud
+https://5cbd3bc28341f.streamlock.net:444/telesud/_definst_/live/playlist.m3u8
+#EXTINF:-1,[171] Telemistretta
+https://live.mariatvcdn.com/telemistretta/8fbcd205ada81b295ee6c211c3a80dde.sdp/playlist.m3u8
+#EXTINF:-1,[172] TRIS
+https://5db313b643fd8.streamlock.net/Tris/Tris/playlist.m3u8
+#EXTINF:-1,[174] TVS
+https://5db313b643fd8.streamlock.net/SRLIVE_1/SRLIVE_1/playlist.m3u8
+#EXTINF:-1,[193] Videostar
+https://5cbd3bc28341f.streamlock.net:444/videostar_live/_definst_/videostar/playlist.m3u8
+#EXTINF:-1,[199] TeleScoutEuropa
+https://stream.mariatvcdn.com/tse/bd5a2cb40637623177295aed22db25f9.sdp/playlist.m3u8
+#EXTINF:-1,[287] Sicilia TV
+https://5f22d76e220e1.streamlock.net/SiciliaTV/SiciliaTV/playlist.m3u8
+#EXTINF:-1,[289] TVR Xenon
+https://cloudtv.azotosolutions.com:9553/tvrxenonlive/tvrxenonlive/playlist.m3u8
+#EXTINF:-1,[291] Televallo
+https://5cbd3bc28341f.streamlock.net:444/televallo/live/playlist.m3u8
+#EXTINF:-1,[616] LaTR3
+https://tsw.streamingwebtv24.it:1936/eslife1/eslife1/playlist.m3u8
+#EXTINF:-1,[621] La Isla Bonita TV
+https://585b674743bbb.streamlock.net/9036/9036/playlist.m3u8
+#EXTINF:-1,[645] RMK 24 NEWS
+https://5cbd3bc28341f.streamlock.net:444/tmk_live/5123-CA5C-9EBE-428A/playlist.m3u8
+#EXTINF:-1,[647] Telegela
+https://5cbd3bc28341f.streamlock.net:444/qdg_live/AF74-FF2C-7350-41F2/playlist.m3u8
+#EXTINF:-1,[651] TM Life & Family
+https://stream.mariatvcdn.com/telemistrettalive2/ddbcd59a192d6f92336991e344fa1821.sdp/playlist.m3u8
+#EXTINF:-1,[652] WLTV
+https://5db313b643fd8.streamlock.net/WLTV/WLTV/playlist.m3u8
+#EXTINF:-1,[695] YVIITV
+https://yviistreamer.kernel.online/hls/yviitv.m3u8
+#EXTINF:-1,[716] Radio Tivù Azzurra
+https://video.azotosolutions.com:9553/radiotivuazzurralive/radiotivuazzurralive/playlist.m3u8
+#EXTINF:-1,[812] Tele Pegaso
+https://flash2.xdevel.com/telepegasocanale812/telepegasocanale812/manifest.mpd
+#EXTINF:-1,[814] Bella Radio TV
+https://server.bellaradio.it:1443/live/bellaradiotv/playlist.m3u8
+#EXTINF:-1,[872] FMITALIA TV
+https://router.xdevel.com/video0s975817-362/stream/playlist.m3u8
+#EXTINF:-1,[875] Radio Taormina TV
+https://stream2.xdevel.com/video1s3-7/stream/playlist_dvr.m3u8
