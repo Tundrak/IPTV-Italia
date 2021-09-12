@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1,[12] Telebari
+https://w1.mediastreaming.it/telebari/livestream/playlist.m3u8
+#EXTINF:-1,[15] Studio 100
+https://59d8c0cee6f3d.streamlock.net/studio100ta/studio100ta/playlist.m3u8
+#EXTINF:-1,[17] Telesveva
+https://dc1.telesveva.erefresh.it:4443/hls/livetv/index.m3u8
+#EXTINF:-1,[19] Radio Norba TV
+https://router.xdevel.com/video0s975885-462/stream/playlist_dvr.m3u8
+#EXTINF:-1,[72] Teleblu
+https://58d921499d3d3.streamlock.net/Teleblu/livestream/playlist.m3u8
+#EXTINF:-1,[73] Telefoggia
+https://59d8c0cee6f3d.streamlock.net/telefoggia/telefoggia/playlist.m3u8
+#EXTINF:-1,[74] Canale 7
+https://59d8c0cee6f3d.streamlock.net/canale7/canale7/playlist.m3u8
+#EXTINF:-1,[92] Studio 5 TV
+https://5d00db0e0fcd5.streamlock.net/7444/7444/playlist.m3u8
+#EXTINF:-1,[97] Telemajg
+https://59d7d6f47d7fc.streamlock.net/telemajg/telemajg/playlist.m3u8
+#EXTINF:-1,[113] TV Ofanto
+https://5d00db0e0fcd5.streamlock.net/7446/7446/playlist.m3u8
+#EXTINF:-1,[114] Canale 2
+https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8
+#EXTINF:-1,[115] Telesud
+https://webtv.pugliaservice.it:1936/telesud-webtv/telesud-webtv/playlist.m3u8
+#EXTINF:-1,[180] TG Norba 24
+https://flash2.xdevel.com/tgnorba_24/tgnorba_24_source.stream/manifest.mpd
+#EXTINF:-1,[659] Radio Gamma TV
+https://stream4.xdevel.com/video0s975943-763/stream/playlist.m3u8
+#EXTINF:-1,[698] Mediterranea TV
+https://59bb40cf810aa.streamlock.net:4443/streamingvincente/streamingvincente/playlist.m3u8
+#EXTINF:-1,[881] Radio Popizz TV
+https://59bb40cf810aa.streamlock.net:4443/popizztv/popizztv/playlist.m3u8

@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1,[12] RETESETTE
+https://stream.ets-sistemi.it/live.rete7/rete7/playlist.m3u8
+#EXTINF:-1,[13] GRP TELEVISIONE
+https://5cbd3bc28341f.streamlock.net:444/grp/live/playlist.m3u8
+#EXTINF:-1,[14] Primantenna
+https://585b674743bbb.streamlock.net/9062/9062/playlist.m3u8
+#EXTINF:-1,[86] Videonovara
+https://sb.top-ix.org/avtv04/_definst_/streaming/playlist.m3u8
+#EXTINF:-1,[91] Retebiella TV
+https://ed04.top-ix.org/retebiella/_definst_/streaming/playlist.m3u8
+#EXTINF:-1,[91] Radio 4 You TV
+https://5926fc9c7c5b2.streamlock.net/9018/9018/playlist.m3u8
+#EXTINF:-1,[186] Telegranda
+http://live.sloode.com:1935/telegranda_live/C2AD-0664-DC75-4744/playlist.m3u8
+#EXTINF:-1,[190] Telebiella
+rtmp://wowza1.top-ix.org/telebiella/streaming
+#EXTINF:-1,[654] Radio Gold TV
+https://cloudtv.azotosolutions.com:9553/goldtv/goldtv/playlist.m3u8
+#EXTINF:-1,[696] VCO Azzurra TV
+https://ed04.top-ix.org/avtvlive/_definst_/streaming/playlist.m3u8
+#EXTINF:-1,[864] Onda Novara TV
+https://585b674743bbb.streamlock.net/9006/9006/playlist.m3u8

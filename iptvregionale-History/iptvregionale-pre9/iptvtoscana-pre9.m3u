@@ -1,0 +1,30 @@
+#EXTINF:-1,[11] TVL
+https://live.mariatvcdn.com/mariatvcdn/70564e1c6884c007c76f0c128d679eed.sdp/mono.m3u8
+#EXTINF:-1,[14] Telegranducato
+https://www.granducatotv.eu/tv/granducato/hls
+#EXTINF:-1,[15] RTV38
+http://streamcdng18-845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/live/S12268608/CXHH7K39hg9K/playlist.m3u8
+#EXTINF:-1,[17] Italia 7
+https://streaming.softwarecreation.it/Italia7/Italia7/playlist.m3u8
+#EXTINF:-1,[74] TVP
+https://live.mariatvcdn.com/tvprato/2db0dd5674586686a867ec52c3aa8e06.sdp/mono.m3u8
+#EXTINF:-1,[85] TSD
+https://stream.mariatvcdn.com/tsd/7c59373bfdb38201b9215ff86f0ce6af.sdp/mono.m3u8
+#EXTINF:-1,[90] Radio Siena TV
+https://flash8.xdevel.com/sienatv/sienatv/manifest.mpd
+#EXTINF:-1,[99] Antenna 3
+http://163.172.88.73:1935/antenna3massa/a3/playlist.m3u8
+#EXTINF:-1,[190] Idea Plus
+https://eu1.servers10.com:8081/8044/index.m3u8
+#EXTINF:-1,[193] SPORTVL
+https://live.mariatvcdn.com/tvlsport/79d485442e700b9ae37c4344c130998d.sdp/mono.m3u8
+#EXTINF:-1,[271] NTi
+https://www.ntimedia.it/video/S0/S0_master.m3u8
+#EXTINF:-1,[603] Errevutì
+https://flash8.xdevel.com/errevutitv/errevutitv/manifest.mpd
+#EXTINF:-1,[699] Radio Italia 5 TV
+https://stream1.xdevel.com/video0s975662-257/stream/playlist.m3u8
+#EXTINF:-1,[813] VUEMME
+https://5db313b643fd8.streamlock.net/Vuemme/Vuemme/playlist.m3u8
+#EXTINF:-1,[841] Lady Radio TV
+https://flash8.xdevel.com/ladyradiovideo/ladyradiovideo/manifest.mpd
