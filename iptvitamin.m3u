@@ -146,6 +146,12 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025
 #EXTINF: -1 tvg-id="MotorTrend.it" tvg-chno="59" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/motortrend.png" group-title="Tutti i canali", Motor Trend
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
 
+#EXTINF: -1 tvg-id="SportItalia.it" tvg-chno="60" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/sportitalia.png" group-title="Tutti i canali", SportItalia
+https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd_480p/chunklist.m3u8
+
+#EXTINF: -1 tvg-id="SoloCalcio.it" tvg-chno="61" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SI_Solo_Calcio_logo_%282019%29.svg/320px-SI_Solo_Calcio_logo_%282019%29.svg.png" group-title="Tutti i canali", SoloCalcio
+https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8
+
 #EXTINF: -1 tvg-id="AlmaTv.it" tvg-chno="65" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/almatv.png" group-title="Tutti i canali", ALMA TV
 https://streaming.softwarecreation.it/AlmaTv/AlmaTv/playlist.m3u8
 
@@ -180,6 +186,9 @@ https://58d921499d3d3.streamlock.net/KissKissTV/KissKissTV.stream/playlist.m3u8
 #EXTINF: -1 tvg-id="R101TV.it" tvg-chno="167" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/r101.png" group-title="Mediaset", R101 TV
 https://live3.msr.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(ER)/manifest.mpd
 
+#EXTINF: -1 tvg-id="RaiRadio2.it" tvg-chno="203" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/rairadio2.png" group-title="Rai", Rai Radio 2 Visual
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080
+
 #EXTINF: -1 tvg-id="VirginRadio.it" tvg-chno="257" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/virgin.png" group-title="Mediaset", VIRGIN RADIO
 https://live3.msr.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(EW)/manifest.mpd
 
@@ -192,11 +201,17 @@ http://wma05.fluidstream.net/KKTVNapoli/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioKissKissItalia.it" tvg-chno="260" tvg-logo="https://kisskissitalia.it/wp-content/uploads/2021/03/italianostop.png" group-title="Tutti i canali", Radio KissKiss Italia TV
 http://wma05.fluidstream.net/KKTV01/livestream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ByoBlu.it" tvg-chno="262" tvg-logo="https://pbs.twimg.com/profile_images/1144411888073228290/JiHuof6N_400x400.jpg" group-title="Tutti i canali", ByoBlu
+https://09bd1346f7a44cc9ac230cc1cb22ca4f.msvdn.net/live/S39249178/EnTK3KeeN1Eg/playlist.m3u8
+
 #EXTINF: -1 tvg-id="rds" tvg-chno="265" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rds-social-tv-it.png" group-title="Tutti i canali", RDS Social TV
 https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8
 
 #EXTINF: -1 tvg-id="RadioZeta.it" tvg-chno="266" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/radiozeta.png" group-title="Tutti i canali", RADIO ZETA
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
+
+#EXTINF:-1 tvg-id="M2OTv.it" tvg-chno="715" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/m2o_it_tv.png" group-title="Tutti i canali", M2O TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
 
 #EXTINF: -1 tvg-id="RadioMontecarlo.it" tvg-chno="772" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/radiomontecarlo.png" group-title="Mediaset", Radio Montecarlo TV
 https://live3.msr.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(BB)/manifest.mpd
@@ -204,11 +219,11 @@ https://live3.msr.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(BB)/mani
 #EXTINF:-1 tvg-id="RadioCapitalTv.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/radio-capital-tivu-it.png" group-title="Tutti i canali", Radio Capital TV
 http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
 
-#EXTINF:-1 tvg-id="RadioM2OTv.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/m2o_it_tv.png" group-title="Tutti i canali", M2O TV
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
-
 #EXTINF:-1 tvg-id="RadioPiterpanTV.it" tvg-logo="https://www.piterpan.it/wp-content/uploads/2020/01/piterpan-logo-ico.png" group-title="Tutti i canali", Radio Piterpan TV
 https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/chunklist_w1502503537.m3u8
+
+#EXTINF:-1 tvg-id="RadioSanMarino.it" tvg-logo="https://www.sanmarinortv.sm/assets/frontend/img/logo-1200-630.png?v51" group-title="Tutti i canali", RTV San Marino
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Vuemme.it" tvg-logo="https://www.vuemmetv.it/wp-content/uploads/2018/02/VUEMME-logo-colori-fb.jpeg" group-title="Tutti i canali", Vuemme
 https://5db313b643fd8.streamlock.net/Vuemme/Vuemme/playlist.m3u8
