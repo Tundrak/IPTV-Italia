@@ -1,11 +1,14 @@
 #EXTM3U 
 #EXTINF: -1 tvg-id="Rai1.it" tvg-name="RAI 1" tvg-chno="1" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/rai1.png" group-title="Rai", Rai 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803
 
 #EXTINF: -1 tvg-id="Rai2.it" tvg-name="Rai 2" tvg-chno="2" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/rai2.png" group-title="Rai", Rai 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718
 
 #EXTINF: -1 tvg-id="Rai3TGRCalabria.it" tvg-name="Rai 3 HD" tvg-chno="3" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/rai3.png" group-title="Rai", Rai 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709
 
 #EXTINF: -1 tvg-id="Rete4.it" tvg-chno="4" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/rete4.png" group-title="Mediaset", Rete 4
@@ -39,18 +42,22 @@ http://livetr.teleromagna.it/news/live/playlist.m3u8
 https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(lb)/manifest.mpd
 
 #EXTINF: -1 tvg-id="Rai4.it" tvg-chno="21" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/rai4.png" group-title="Rai", Rai 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966
 
 #EXTINF: -1 tvg-id="Iris.it" tvg-chno="22" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/iris.png" group-title="Mediaset", Iris
 https://live3.msf.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(ki)/manifest.mpd
 
 #EXTINF: -1 tvg-id="Rai5.it" tvg-chno="23" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/rai5.png" group-title="Rai", Rai 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276
 
 #EXTINF: -1 tvg-id="RaiMovie.it" tvg-chno="24" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/raimovie.png" group-title="Rai", Rai Movie
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002
 
 #EXTINF: -1 tvg-id="RaiPremium.it" tvg-chno="25" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/raipremium.png" group-title="Rai", Rai Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992
 
 #EXTINF: -1 tvg-id="ParamountChannel.it" tvg-chno="27" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/paramountnetwork.png" group-title="Tutti i canali", Paramount Network
@@ -96,9 +103,11 @@ https://live3.msf.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(lt)/mani
 https://live3.msf.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(kb)/manifest.mpd
 
 #EXTINF: -1 tvg-id="RaiGulp.it" tvg-chno="42" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/raigulp.png" group-title="Rai", Rai Gulp
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953
 
 #EXTINF: -1 tvg-id="RaiYoyo.it" tvg-chno="43" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/raiyoyo.png" group-title="Rai", Rai Yoyo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899
 
 #EXTINF: -1 tvg-id="Cartoonito.it" tvg-chno="46" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/cartoonito.png" group-title="Mediaset", Cartoonito
@@ -108,6 +117,7 @@ https://live3.msf.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(la)/mani
 https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@357018/master.m3u8
 
 #EXTINF: -1 tvg-id="RaiNews24.it" tvg-chno="48" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/rainews24.png" group-title="Rai", Rai News 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1
 
 #EXTINF: -1 tvg-id="Spike.it" tvg-chno="49" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/spike.png" group-title="Tutti i canali", Spike
@@ -123,12 +133,14 @@ https://live3.msf.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(kf)/mani
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8
 
 #EXTINF: -1 tvg-id="RaiStoria.it" tvg-chno="54" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/raistoria.png" group-title="Rai", Rai Storia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990
 
 #EXTINF: -1 tvg-id="MediasetExtra.it" tvg-chno="55" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/mediasetextra.png" group-title="Mediaset", Mediaset Extra
 https://live3.msf.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(kq)/manifest.mpd
 
 #EXTINF: -1 tvg-id="RaiSport.it" tvg-chno="57" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/raisport+.png" group-title="Rai", Rai Sport +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025
 
 #EXTINF: -1 tvg-id="MotorTrend.it" tvg-chno="59" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/motortrend.png" group-title="Tutti i canali", Motor Trend
@@ -153,6 +165,7 @@ https://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/master.m3u8
 https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
 
 #EXTINF: -1 tvg-id="RaiScuola.it" tvg-chno="146" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/raiscuola.png" group-title="Rai", Rai Scuola
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011
 
 #EXTINF:-1 tvg-id="uninettuno" tvg-chno="150" tvg-logo="https://www.lyngsat-logo.com/logo/tv/uu/uninettuno_university_tv_it.png" group-title="Tutti i canali", Uninettuno University TV
