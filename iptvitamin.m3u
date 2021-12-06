@@ -1,267 +1,153 @@
-#EXTM3U 
-#EXTINF: -1 tvg-id="Rai1.it" tvg-name="RAI 1" tvg-chno="1" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/rai1.png" group-title="Tutti i canali", Rai 1
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803
-
-#EXTINF: -1 tvg-id="Rai2.it" tvg-name="Rai 2" tvg-chno="2" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/rai2.png" group-title="Tutti i canali", Rai 2
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718
-
-#EXTINF: -1 tvg-id="Rai3TGRCalabria.it" tvg-name="Rai 3 HD" tvg-chno="3" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/rai3.png" group-title="Tutti i canali", Rai 3
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709
-
-#EXTINF: -1 tvg-id="Rete4.it" tvg-chno="4" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/rete4.png" group-title="Tutti i canali", Rete 4
-https://live3.msf.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(r4)/manifest.mpd
-
-#EXTINF: -1 tvg-id="Canale5.it" tvg-chno="5" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/canale5.png" group-title="Tutti i canali", Canale 5
-https://live3.msf.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(c5)/manifest.mpd
-
-#EXTINF: -1 tvg-id="Italia1.it" tvg-chno="6" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/italia1.png" group-title="Tutti i canali", Italia 1
-https://live3.msf.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(i1)/manifest.mpd
-
-#EXTINF: -1 tvg-id="La7.it" tvg-chno="7" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/la7.png" group-title="Tutti i canali", La 7
+#EXTM3U
+#EXTINF:-1 tvg-id="La7.it" tvg-name="La 7" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/la7.png" group-title="Tutti i canali",La 7
 https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live_1280x720_.m3u8
-
-#EXTINF:-1 tvg-id="Tv8.it" tvg-chno="8" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/tv8.png" group-title="Tutti i canali", Tv8
+#EXTINF:-1 tvg-id="Tv8.it" tvg-name="Tv8" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/tv8.png" group-title="Tutti i canali",Tv8
 https://www.mytivu.it/Application/Channels/TV8.php
-
-#EXTINF: -1 tvg-id="Nove.it" tvg-chno="9" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/nove.png" group-title="Tutti i canali", Nove
+#EXTINF:-1 tvg-id="Nove.it" tvg-name="Nove" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/nove.png" group-title="Tutti i canali",Nove
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
-
-#EXTINF:-1 tvg-id="TR24.it" tvg-chno="11" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tele_romagna_it_24.png" group-title="EMILIA ROMAGNA", TR24
-http://livetr.teleromagna.it/mia/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Teleromagna.it" tvg-chno="14" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tele_romagna_it.png" group-title="EMILIA ROMAGNA", Teleromagna
-http://livetr.teleromagna.it/teleromagna/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TeleromagnaMia.it" tvg-chno="15" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tele_romagna_it_mia.png" group-title="EMILIA ROMAGNA",Teleromagna Mia
-http://livetr.teleromagna.it/news/live/playlist.m3u8
-
-#EXTINF: -1 tvg-id="20Mediaset.it" tvg-chno="20" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/20mediaset.png" group-title="Tutti i canali", 20 Mediaset
-https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(lb)/manifest.mpd
-
-#EXTINF: -1 tvg-id="Rai4.it" tvg-chno="21" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/rai4.png" group-title="Tutti i canali", Rai 4
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966
-
-#EXTINF: -1 tvg-id="Iris.it" tvg-chno="22" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/iris.png" group-title="Tutti i canali", Iris
-https://live3.msf.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(ki)/manifest.mpd
-
-#EXTINF: -1 tvg-id="Rai5.it" tvg-chno="23" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/rai5.png" group-title="Tutti i canali", Rai 5
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276
-
-#EXTINF: -1 tvg-id="RaiMovie.it" tvg-chno="24" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/raimovie.png" group-title="Tutti i canali", Rai Movie
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002
-
-#EXTINF: -1 tvg-id="RaiPremium.it" tvg-chno="25" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/raipremium.png" group-title="Tutti i canali", Rai Premium
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992
-
-#EXTINF: -1 tvg-id="ParamountChannel.it" tvg-chno="27" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/paramountnetwork.png" group-title="Tutti i canali", Paramount Network
+#EXTINF:-1 tvg-id="ParamountChannel.it" tvg-name="Paramount Network" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/paramountnetwork.png" group-title="Tutti i canali",Paramount Network
 https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@195657/master.m3u8
-
-#EXTINF: -1 tvg-id="TV2000.it" tvg-chno="28" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/tv2000.png" group-title="Tutti i canali", TV2000
+#EXTINF:-1 tvg-id="TV2000.it" tvg-name="TV2000" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/tv2000.png" group-title="Tutti i canali",TV2000
 https://cldwz.tv2000.it/tv2000_main.m3u8
-
-#EXTINF: -1 tvg-id="LA7D.it" tvg-chno="29" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/la7d.png" group-title="Tutti i canali", La 7d
+#EXTINF:-1 tvg-id="LA7D.it" tvg-name="La 7d" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/la7d.png" group-title="Tutti i canali",La 7d
 https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live_1280x720_.m3u8
-
-#EXTINF: -1 tvg-id="LA5.it" tvg-chno="30" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/la5.png" group-title="Tutti i canali", La 5
+#EXTINF:-1 tvg-id="LA5.it" tvg-name="La 5" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/la5.png" group-title="Tutti i canali",La 5
 https://live3.msf.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(ka)/manifest.mpd
-
-#EXTINF: -1 tvg-id="RealTime.it" tvg-chno="31" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/realtime.png" group-title="Tutti i canali", Real Time
+#EXTINF:-1 tvg-id="RealTime.it" tvg-name="Real Time" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/realtime.png" group-title="Tutti i canali",Real Time
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8
-
-#EXTINF: -1 tvg-id="QVC.it" tvg-chno="32" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/qvc.png" group-title="Tutti i canali", QVC
+#EXTINF:-1 tvg-id="QVC.it" tvg-name="QVC" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/qvc.png" group-title="Tutti i canali",QVC
 https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
-
-#EXTINF: -1 tvg-id="FoodNetwork.it" tvg-chno="33" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/foodnetwork.png" group-title="Tutti i canali", FOOD NETWORK
+#EXTINF:-1 tvg-id="FoodNetwork.it" tvg-name="FOOD NETWORK" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/foodnetwork.png" group-title="Tutti i canali",FOOD NETWORK
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/master.m3u8
-
-#EXTINF: -1 tvg-id="Cine34.it" tvg-chno="34" tvg-logo="https://api.superguidatv.it/v1/channels/574/logo?width=120" group-title="Tutti i canali", Cine34
+#EXTINF:-1 tvg-id="Cine34.it" tvg-name="Cine34" tvg-logo="https://api.superguidatv.it/v1/channels/574/logo?width=120" group-title="Tutti i canali",Cine34
 https://live3.msf.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(b6)/manifest.mpd
-
-#EXTINF: -1 tvg-id="Focus.it" tvg-chno="35" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/focus.png" group-title="Tutti i canali", FOCUS
+#EXTINF:-1 tvg-id="Focus.it" tvg-name="FOCUS" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/focus.png" group-title="Tutti i canali",FOCUS
 https://live3.msf.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(fu)/manifest.mpd
-
-#EXTINF: -1 tvg-id="RTL102.5TV.it" tvg-chno="36" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/rtl1025.png" group-title="Tutti i canali", RTL 102.5
+#EXTINF:-1 tvg-id="RTL102.5TV.it" tvg-name="RTL 102.5" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/rtl1025.png" group-title="Tutti i canali",RTL 102.5
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
-
-#EXTINF: -1 tvg-id="GM24.it" tvg-chno="37" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gm-24-it.png" group-title="Tutti i canali", GM24
+#EXTINF:-1 tvg-id="GM24.it" tvg-name="GM24" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gm-24-it.png" group-title="Tutti i canali",GM24
 https://streaming.softwarecreation.it/GM24/GM24/playlist.m3u8
-
-#EXTINF: -1 tvg-id="Giallo.it" tvg-chno="38" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/giallo.png" group-title="Tutti i canali", Giallo
+#EXTINF:-1 tvg-id="Giallo.it" tvg-name="Giallo" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/giallo.png" group-title="Tutti i canali",Giallo
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8
-
-#EXTINF: -1 tvg-id="TopCrime.it" tvg-chno="39" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/topcrime.png" group-title="Tutti i canali", Top Crime
+#EXTINF:-1 tvg-id="TopCrime.it" tvg-name="Top Crime" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/topcrime.png" group-title="Tutti i canali",Top Crime
 https://live3.msf.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(lt)/manifest.mpd
-
-#EXTINF: -1 tvg-id="Boing.it" tvg-chno="40" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/boing.png" group-title="Tutti i canali", Boing
-https://live3.msf.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(kb)/manifest.mpd
-
-#EXTINF: -1 tvg-id="RaiGulp.it" tvg-chno="42" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/raigulp.png" group-title="Tutti i canali", Rai Gulp
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953
-
-#EXTINF: -1 tvg-id="RaiYoyo.it" tvg-chno="43" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/raiyoyo.png" group-title="Tutti i canali", Rai Yoyo
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899
-
-#EXTINF: -1 tvg-id="Cartoonito.it" tvg-chno="46" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/cartoonito.png" group-title="Tutti i canali", Cartoonito
+#EXTINF:-1 tvg-id="Cartoonito.it" tvg-name="Cartoonito" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/cartoonito.png" group-title="Tutti i canali",Cartoonito
 https://live3.msf.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(la)/manifest.mpd
-
-#EXTINF: -1 tvg-id="Super.it" tvg-chno="47" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Supertv-logo-2015.png" group-title="Tutti i canali", Super!
+#EXTINF:-1 tvg-id="Super.it" tvg-name="Super!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Supertv-logo-2015.png" group-title="Tutti i canali",Super!
 https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@357018/master.m3u8
-
-#EXTINF: -1 tvg-id="RaiNews24.it" tvg-chno="48" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/rainews24.png" group-title="Tutti i canali", Rai News 24
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1
-
-#EXTINF: -1 tvg-id="Spike.it" tvg-chno="49" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/spike.png" group-title="Tutti i canali", Spike
+#EXTINF:-1 tvg-id="Spike.it" tvg-name="Spike" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/spike.png" group-title="Tutti i canali",Spike
 https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/master.m3u8
-
-#EXTINF: -1 tvg-id="SkyTG24.it" tvg-chno="50" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/skytg24.png" group-title="Tutti i canali", Sky TG24
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="Sky TG24" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/skytg24.png" group-title="Tutti i canali",Sky TG24
 https://skyanywhere3-i.akamaihd.net/hls/live/510696/tg24/playlist.m3u8
-
-#EXTINF: -1 tvg-id="TGCom24.it" tvg-chno="51" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/tgcom24.png" group-title="Tutti i canali", TGCOM 24
+#EXTINF:-1 tvg-id="TGCom24.it" tvg-name="TGCOM 24" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/tgcom24.png" group-title="Tutti i canali",TGCOM 24
 https://live3.msf.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(kf)/manifest.mpd
-
-#EXTINF: -1 tvg-id="DMAX.it" tvg-chno="52" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/dmax.png" group-title="Tutti i canali", Dmax
+#EXTINF:-1 tvg-id="DMAX.it" tvg-name="Dmax" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/dmax.png" group-title="Tutti i canali",Dmax
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8
-
-#EXTINF: -1 tvg-id="RaiStoria.it" tvg-chno="54" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/raistoria.png" group-title="Tutti i canali", Rai Storia
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990
-
-#EXTINF: -1 tvg-id="MediasetExtra.it" tvg-chno="55" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/mediasetextra.png" group-title="Tutti i canali", Mediaset Extra
+#EXTINF:-1 tvg-id="MediasetExtra.it" tvg-name="Mediaset Extra" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/mediasetextra.png" group-title="Tutti i canali",Mediaset Extra
 https://live3.msf.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(kq)/manifest.mpd
-
-#EXTINF: -1 tvg-id="RaiSport.it" tvg-chno="57" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/raisport+.png" group-title="Tutti i canali", Rai Sport +
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025
-
-#EXTINF: -1 tvg-id="MotorTrend.it" tvg-chno="59" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/motortrend.png" group-title="Tutti i canali", Motor Trend
+#EXTINF:-1 tvg-id="MotorTrend.it" tvg-name="Motor Trend" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/motortrend.png" group-title="Tutti i canali",Motor Trend
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
-
-#EXTINF: -1 tvg-id="AlmaTv.it" tvg-chno="65" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/almatv.png" group-title="Tutti i canali", ALMA TV
+#EXTINF:-1 tvg-id="AlmaTv.it" tvg-name="ALMA TV" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/almatv.png" group-title="Tutti i canali",ALMA TV
 https://streaming.softwarecreation.it/AlmaTv/AlmaTv/playlist.m3u8
-
-#EXTINF: -1 tvg-id="Italia2.it" tvg-chno="66" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/mediasetitaliadue.png" group-title="Tutti i canali", Italia 2
-https://live3.msf.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(i2)/manifest.mpd
-
-#EXTINF: -1 tvg-id="VH1.it" tvg-chno="67" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/vh1.png" group-title="Tutti i canali", VH1
+#EXTINF:-1 tvg-id="VH1.it" tvg-name="VH1" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/vh1.png" group-title="Tutti i canali",VH1
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
-
-#EXTINF: -1 tvg-id="DeejayTV.it" tvg-chno="69" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/deejaytv.png" group-title="Tutti i canali", Deejay TV
+#EXTINF:-1 tvg-id="DeejayTV.it" tvg-name="Deejay TV" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/deejaytv.png" group-title="Tutti i canali",Deejay TV
 https://deejay-tv-lh.akamaized.net/i/DeejayTv_1@129866/master.m3u8
-
-#EXTINF: -1 tvg-id="RadioItaliaTV.it" tvg-chno="70" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/radioitaliatv.png" group-title="Tutti i canali", RadioItaliaTV
+#EXTINF:-1 tvg-id="RadioItaliaTV.it" tvg-name="RadioItaliaTV" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/radioitaliatv.png" group-title="Tutti i canali",RadioItaliaTV
 https://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/master.m3u8
-
-#EXTINF: -1 tvg-id="PadrePioTV.it" tvg-chno="145" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/padrepiotv.png" group-title="Tutti i canali", Padre Pio TV
+#EXTINF:-1 tvg-id="PadrePioTV.it" tvg-name="Padre Pio TV" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/padrepiotv.png" group-title="Tutti i canali",Padre Pio TV
 https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
-
-#EXTINF: -1 tvg-id="RaiScuola.it" tvg-chno="146" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/raiscuola.png" group-title="Tutti i canali", Rai Scuola
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011
-
-#EXTINF:-1 tvg-id="uninettuno" tvg-chno="150" tvg-logo="https://www.lyngsat-logo.com/logo/tv/uu/uninettuno_university_tv_it.png" group-title="Tutti i canali", Uninettuno University TV
+#EXTINF:-1 tvg-id="uninettuno" tvg-name="Uninettuno University TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/uu/uninettuno_university_tv_it.png" group-title="Tutti i canali",Uninettuno University TV
 https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
-
-#EXTINF: -1 tvg-id="Radio105TV.it" tvg-chno="157" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/radio105tv.png" group-title="Tutti i canali", Radio 105 TV
+#EXTINF:-1 tvg-id="Radio105TV.it" tvg-name="Radio 105 TV" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/radio105tv.png" group-title="Tutti i canali",Radio 105 TV
 https://live3.msr.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(EC)/manifest.mpd
-
-#EXTINF: -1 tvg-id="RadioKissKiss.it" tvg-chno="158" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/radiokisskiss.png" group-title="Tutti i canali", RADIO KISS KISS TV
+#EXTINF:-1 tvg-id="RadioKissKiss.it" tvg-name="RADIO KISS KISS TV" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/radiokisskiss.png" group-title="Tutti i canali",RADIO KISS KISS TV
 https://58d921499d3d3.streamlock.net/KissKissTV/KissKissTV.stream/playlist.m3u8
-
-#EXTINF: -1 tvg-id="R101TV.it" tvg-chno="167" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/r101.png" group-title="Tutti i canali", R101 TV
+#EXTINF:-1 tvg-id="R101TV.it" tvg-name="R101 TV" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/r101.png" group-title="Tutti i canali",R101 TV
 https://live3.msr.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(ER)/manifest.mpd
-
-#EXTINF: -1 tvg-id="VirginRadio.it" tvg-chno="257" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/virgin.png" group-title="Tutti i canali", VIRGIN RADIO
+#EXTINF:-1 tvg-id="VirginRadio.it" tvg-name="VIRGIN RADIO" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/virgin.png" group-title="Tutti i canali",VIRGIN RADIO
 https://live3.msr.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(EW)/manifest.mpd
-
-#EXTINF: -1 tvg-id="RadioFrecciaTV.it" tvg-chno="258" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/radiofreccia.png" group-title="Tutti i canali", RADIOFRECCIA
+#EXTINF:-1 tvg-id="RadioFrecciaTV.it" tvg-name="RADIOFRECCIA" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/radiofreccia.png" group-title="Tutti i canali",RADIOFRECCIA
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
-
-#EXTINF:-1 tvg-id="RadioKissKissNapoli.it" tvg-chno="259" group-title="Tutti i canali" tvg-logo="https://kisskissnapoli.it/wp-content/uploads/2021/09/cropped-logo_kknapoli.png", Radio KissKiss Napoli TV
+#EXTINF:-1 tvg-id="RadioKissKissNapoli.it" tvg-name="Radio KissKiss Napoli TV" tvg-logo="https://kisskissnapoli.it/wp-content/uploads/2021/09/cropped-logo_kknapoli.png" group-title="Tutti i canali",Radio KissKiss Napoli TV
 http://wma05.fluidstream.net/KKTVNapoli/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RadioKissKissItalia.it" tvg-chno="260" tvg-logo="https://kisskissitalia.it/wp-content/uploads/2021/03/italianostop.png" group-title="Tutti i canali", Radio KissKiss Italia TV
+#EXTINF:-1 tvg-id="RadioKissKissItalia.it" tvg-name="Radio KissKiss Italia TV" tvg-logo="https://kisskissitalia.it/wp-content/uploads/2021/03/italianostop.png" group-title="Tutti i canali",Radio KissKiss Italia TV
 http://wma05.fluidstream.net/KKTV01/livestream/playlist.m3u8
-
-#EXTINF: -1 tvg-id="rds" tvg-chno="265" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rds-social-tv-it.png" group-title="Tutti i canali", RDS Social TV
+#EXTINF:-1 tvg-id="rds" tvg-name="RDS Social TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rds-social-tv-it.png" group-title="Tutti i canali",RDS Social TV
 https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8
-
-#EXTINF: -1 tvg-id="RadioZeta.it" tvg-chno="266" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/radiozeta.png" group-title="Tutti i canali", RADIO ZETA
+#EXTINF:-1 tvg-id="RadioZeta.it" tvg-name="RADIO ZETA" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/radiozeta.png" group-title="Tutti i canali",RADIO ZETA
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
-
-#EXTINF: -1 tvg-id="RadioMontecarlo.it" tvg-chno="772" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/radiomontecarlo.png" group-title="Tutti i canali", Radio Montecarlo TV
+#EXTINF:-1 tvg-id="RadioMontecarlo.it" tvg-name="Radio Montecarlo TV" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/radiomontecarlo.png" group-title="Tutti i canali",Radio Montecarlo TV
 https://live3.msr.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(BB)/manifest.mpd
-
-#EXTINF:-1 tvg-id="RadioCapitalTv.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/radio-capital-tivu-it.png" group-title="Tutti i canali", Radio Capital TV
+#EXTINF:-1 tvg-id="RadioCapitalTv.it" tvg-name="Radio Capital TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/radio-capital-tivu-it.png" group-title="Tutti i canali",Radio Capital TV
 http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
-
-#EXTINF:-1 tvg-id="RadioM2OTv.it" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/m2o_it_tv.png" group-title="Tutti i canali", M2O TV
+#EXTINF:-1 tvg-id="RadioM2OTv.it" tvg-name="M2O TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/m2o_it_tv.png" group-title="Tutti i canali",M2O TV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
-
-#EXTINF:-1 tvg-id="RadioPiterpanTV.it" tvg-logo="https://www.piterpan.it/wp-content/uploads/2020/01/piterpan-logo-ico.png" group-title="Tutti i canali", Radio Piterpan TV
+#EXTINF:-1 tvg-id="RadioPiterpanTV.it" tvg-name="Radio Piterpan TV" tvg-logo="https://www.piterpan.it/wp-content/uploads/2020/01/piterpan-logo-ico.png" group-title="Tutti i canali",Radio Piterpan TV
 https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/chunklist_w1502503537.m3u8
-
-#EXTINF:-1 tvg-id="Vuemme.it" tvg-logo="https://www.vuemmetv.it/wp-content/uploads/2018/02/VUEMME-logo-colori-fb.jpeg" group-title="Tutti i canali", Vuemme
+#EXTINF:-1 tvg-id="Vuemme.it" tvg-name="Vuemme" tvg-logo="https://www.vuemmetv.it/wp-content/uploads/2018/02/VUEMME-logo-colori-fb.jpeg" group-title="Tutti i canali",Vuemme
 https://5db313b643fd8.streamlock.net/Vuemme/Vuemme/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TeleOLTRE.it" group-title="Tutti i canali" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71TObOzmBtL.png", TeleOLTRE
-rtmp://1se2.troydesign.eu:80/np_teleoltre/channel1_np_teleoltre
-
-#EXTINF:-1 tvg-id="LucaniaTv.it" group-title="BASILICATA" tvg-logo="https://www.lucania.tv/wp-content/uploads/2014/08/logo-retina.png", Lucania TV
-rtmp://wms.shared.streamshow.it:80/lucaniatv/lucaniatv
-
-#EXTINF:-1 tvg-id="EsperiaTv.it" group-title="CALABRIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/ESPERIATV18_verde.png", Esperia TV
+#EXTINF:-1 tvg-id="TR24.it" tvg-name="TR24" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tele_romagna_it_24.png" group-title="EMILIA ROMAGNA",TR24
+http://livetr.teleromagna.it/mia/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Teleromagna.it" tvg-name="Teleromagna" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tele_romagna_it.png" group-title="EMILIA ROMAGNA",Teleromagna
+http://livetr.teleromagna.it/teleromagna/live/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleromagnaMia.it" tvg-name="Teleromagna Mia" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tele_romagna_it_mia.png" group-title="EMILIA ROMAGNA",Teleromagna Mia
+http://livetr.teleromagna.it/news/live/playlist.m3u8
+#EXTINF:-1 tvg-id="EsperiaTv.it" tvg-name="Esperia TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/ESPERIATV18_verde.png" group-title="CALABRIA",Esperia TV
 http://wms.shared.streamshow.it/esperiatv/esperiatv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="8VideoCalabria.it" group-title="CALABRIA" tvg-logo="https://www.videocalabria.tv/wp-content/uploads/2014/09/logo-facebook1.jpg", 8 Video Calabria
-rtmp://wms.shared.streamshow.it:80/videocalabria/videocalabria
-
-#EXTINF:-1 tvg-id="Canale8.it" group-title="CAMPANIA" tvg-logo="https://is.gd/Ta3wTk", Canale 8
-rtmp://wms.shared.streamshow.it:80/canale8/canale8
-
-#EXTINF:-1 tvg-id="CompanyTv.it" group-title="FRIULI VENEZIA GIULIA" tvg-logo="https://www.trendcomunicazione.com/wp-content/uploads/2018/11/20180416-logo-tv-bokka-300x155.png", Company TV
-rtmp://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p
-
-#EXTINF:-1 tvg-id="Telepordenone.it" group-title="FRIULI VENEZIA GIULIA" tvg-logo="https://is.gd/QhB6Il", Telepordenone
-rtmp://213.187.12.18/telepn/telepn
-
-#EXTINF:-1 tvg-id="Primocanale.it" group-title="LIGURIA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/primocanale.png", Primocanale
-rtmp://msh0203.stream.seeweb.it/live/stream1.sdp
-
-#EXTINF:-1 tvg-id="TSNTeleSondrioNews.it" group-title="LOMBARDIA" tvg-logo="https://www.radiotsn.tv/sites/default/files/logo_1_1.png", TSN Tele Sondrio News
+#EXTINF:-1 tvg-id="TSNTeleSondrioNews.it" tvg-name="TSN Tele Sondrio News" tvg-logo="https://www.radiotsn.tv/sites/default/files/logo_1_1.png" group-title="LOMBARDIA",TSN Tele Sondrio News
 http://wms.shared.streamshow.it/tsn/tsn_mobile/playlist.m3u8
-
-#EXTINF:-1 tvg-id="VideoBrescia.it" group-title="LOMBARDIA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/video_brescia_it.png", Video Brescia
+#EXTINF:-1 tvg-id="VideoBrescia.it" tvg-name="Video Brescia" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/video_brescia_it.png" group-title="LOMBARDIA",Video Brescia
 http://wms.shared.streamshow.it/videobrescia/videobrescia/hasbahca.m3u8
-
-#EXTINF:-1 tvg-id="RadioNumberOneTV.it" group-title="LOMBARDIA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/radio-number-one-tv-it.png", Radio Number One TV
+#EXTINF:-1 tvg-id="RadioNumberOneTV.it" tvg-name="Radio Number One TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/radio-number-one-tv-it.png" group-title="LOMBARDIA",Radio Number One TV
 http://wma02.fluidstream.net/RN1TV/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Telemonteve.it" group-title="LOMBARDIA" tvg-logo="https://open-live.org/it/wp-content/uploads/2017/07/TeleMonteNeve.png", Telemonteve
+#EXTINF:-1 tvg-id="Telemonteve.it" tvg-name="Telemonteve" tvg-logo="https://open-live.org/it/wp-content/uploads/2017/07/TeleMonteNeve.png" group-title="LOMBARDIA",Telemonteve
 http://wms.shared.streamshow.it/telemonteneve/telemonteneve/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Telemonteve3.it" group-title="LOMBARDIA" tvg-logo="https://open-live.org/it/wp-content/uploads/2017/07/tMn3.png", Telemonteve 3
+#EXTINF:-1 tvg-id="Telemonteve3.it" tvg-name="Telemonteve 3" tvg-logo="https://open-live.org/it/wp-content/uploads/2017/07/tMn3.png" group-title="LOMBARDIA",Telemonteve 3
 http://wms.shared.streamshow.it/telemonteneve3/telemonteneve3/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TeleBari.it" group-title="PUGLIA" tvg-logo="https://massimoemanuelli.files.wordpress.com/2017/11/telebari-logo-attuale.jpg?w=640", TeleBari
-rtmp://fl1.mediastreaming.it:1935/telebari/livestream
-
-#EXTINF:-1 tvg-id="Studio100.it" group-title="PUGLIA" tvg-logo="https://slyvi-tstorage.s3.amazonaws.com/l0_tml1617778685697_85397361877_1539948587126058.jpg", Studio 100
-rtmp://wms.shared.streamshow.it:1935/studio100ta/studio100ta
-
-#EXTINF:-1 tvg-id="Canale7.it" group-title="PUGLIA" tvg-logo="https://canale7.tv/assets/front/img/fb_logo.jpg", Canale 7
-rtmp://wms.shared.streamshow.it:80/canale7/canale7
-
-#EXTINF:-1 tvg-id="VeraTV.it" group-title="UMBRIA-MARCHE" tvg-logo="https://pbs.twimg.com/profile_images/1355835075846352898/et4EWBz7_400x400.jpg", Vera TV
+#EXTINF:-1 tvg-id="VeraTV.it" tvg-name="Vera TV" tvg-logo="https://pbs.twimg.com/profile_images/1355835075846352898/et4EWBz7_400x400.jpg" group-title="UMBRIA-MARCHE",Vera TV
 http://wms.shared.streamshow.it/veratv/veratv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TeleChiara.it" group-title="VENETO" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tele-chiara-it.png", TeleChiara
-rtmp://fms.tvavicenza.it:1935/telechiara/diretta
-
-#EXTINF:-1 tvg-id="CafeTV24.it" group-title="VENETO" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/a7/47/a9/a747a974-1849-6aa2-0e21-b6b5af813259/source/512x512bb.jpg", Cafe TV 24
-rtmp://srv3.meway.tv:1957/cafe/live
-
-#EXTINF:-1 tvg-id="TvaVicenza.it" group-title="VENETO" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tva_vicenza_it.png", Tva Vicenza
-rtmp://fms.tvavicenza.it:1935/live/diretta_1
-
-#EXTINF:-1 tvg-id="Video33.it" group-title="Trentino Alto Adige" tvg-logo="https://www.video33.it/wp-content/uploads/2021/07/cropped-logo-vb33-Kopie.png", Video 33
+#EXTINF:-1 tvg-id="Video33.it" tvg-name="Video 33" tvg-logo="https://www.video33.it/wp-content/uploads/2021/07/cropped-logo-vb33-Kopie.png" group-title="Trentino Alto Adige",Video 33
 http://livestream.goinfo.it/V33Live/v33ros/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TVRS.it" group-title="MARCHE" tvg-logo="https://www.giornalistitalia.it/wp-content/uploads/2014/04/tvrs-logo.jpg", TVRS
+#EXTINF:-1 tvg-id="TVRS.it" tvg-name="TVRS" tvg-logo="https://www.giornalistitalia.it/wp-content/uploads/2014/04/tvrs-logo.jpg" group-title="MARCHE",TVRS
 http://wms.shared.streamshow.it/tvrs/tvrs/playlist.m3u8
+#EXTINF:-1 tvg-id="Rai4.it" tvg-name="Rai 4" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/rai4.png" group-title="Rai",Rai 4
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966
+#EXTINF:-1 tvg-id="Rai5.it" tvg-name="Rai 5" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/rai5.png" group-title="Rai",Rai 5
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276
+#EXTINF:-1 tvg-id="RaiMovie.it" tvg-name="Rai Movie" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/raimovie.png" group-title="Rai",Rai Movie
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002
+#EXTINF:-1 tvg-id="RaiPremium.it" tvg-name="Rai Premium" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/raipremium.png" group-title="Rai",Rai Premium
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992
+#EXTINF:-1 tvg-id="RaiGulp.it" tvg-name="Rai Gulp" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/raigulp.png" group-title="Rai",Rai Gulp
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953
+#EXTINF:-1 tvg-id="RaiYoyo.it" tvg-name="Rai Yoyo" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/raiyoyo.png" group-title="Rai",Rai Yoyo
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899
+#EXTINF:-1 tvg-id="RaiNews24.it" tvg-name="Rai News 24" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/rainews24.png" group-title="Rai",Rai News 24
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1
+#EXTINF:-1 tvg-id="RaiStoria.it" tvg-name="Rai Storia" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/raistoria.png" group-title="Rai",Rai Storia
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990
+#EXTINF:-1 tvg-id="RaiSport.it" tvg-name="Rai Sport +" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/raisport+.png" group-title="Rai",Rai Sport +
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025
+#EXTINF:-1 tvg-id="RaiScuola.it" tvg-name="Rai Scuola" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/raiscuola.png" group-title="Rai",Rai Scuola
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011
+#EXTINF:-1 tvg-id="Rai3TGRCalabria.it" tvg-name="Rai 3 HD" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/rai3.png" group-title="Rai",Rai 3
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709
+#EXTINF:-1 tvg-id="Rai2.it" tvg-name="Rai 2" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/rai2.png" group-title="Rai",Rai 2
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718
+#EXTINF:-1 tvg-id="Rai1.it" tvg-name="RAI 1" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/rai1.png" group-title="Rai",Rai 1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803
+#EXTINF:-1 tvg-id="20Mediaset.it" tvg-name="20 Mediaset" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/20mediaset.png" group-title="Mediaset",20 Mediaset
+https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(lb)/manifest.mpd
+#EXTINF:-1 tvg-id="Iris.it" tvg-name="Iris" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/iris.png" group-title="Mediaset",Iris
+https://live3.msf.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(ki)/manifest.mpd
+#EXTINF:-1 tvg-id="Boing.it" tvg-name="Boing" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/boing.png" group-title="Mediaset",Boing
+https://live3.msf.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(kb)/manifest.mpd
+#EXTINF:-1 tvg-id="Italia2.it" tvg-name="Italia 2" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/mediasetitaliadue.png" group-title="Mediaset",Italia 2
+https://live3.msf.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(i2)/manifest.mpd
+#EXTINF:-1 tvg-id="Italia1.it" tvg-name="Italia 1" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/italia1.png" group-title="Mediaset",Italia 1
+https://live3.msf.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(i1)/manifest.mpd
+#EXTINF:-1 tvg-id="Canale5.it" tvg-name="Canale 5" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/canale5.png" group-title="Mediaset",Canale 5
+https://live3.msf.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(c5)/manifest.mpd
+#EXTINF:-1 tvg-id="Rete4.it" tvg-name="Rete 4" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/rete4.png" group-title="Mediaset",Rete 4
+https://live3.msf.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(r4)/manifest.mpd
