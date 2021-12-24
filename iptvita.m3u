@@ -9,22 +9,22 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709
 #EXTINF:-1,[4] Rete 4
-https://live3.msf.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(r4)/manifest.mpd
+https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(r4)/manifest.mpd
 #EXTINF:-1,[5] Canale 5
-https://live3.msf.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(c5)/manifest.mpd
+https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(c5)/manifest.mpd
 #EXTINF:-1,[6] Italia 1
-https://live3.msf.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(i1)/manifest.mpd
+https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(i1)/manifest.mpd
 #EXTINF:-1,[7] LA7
 https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live_1280x720_.m3u8
 #EXTINF:-1,[9] Nove
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
 #EXTINF:-1,[20] 20
-https://live3.msf.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(lb)/manifest.mpd
+https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(lb)/manifest.mpd
 #EXTINF:-1,[21] Rai 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966
 #EXTINF:-1,[22] Iris
-https://live3.msf.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(ki)/manifest.mpd
+https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(ki)/manifest.mpd
 #EXTINF:-1,[23] Rai 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276
@@ -37,11 +37,11 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992
 #EXTINF:-1,[27] Paramount Network
 https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@195657/master.m3u8
 #EXTINF:-1,[28] TV2000
-https://cldwz.tv2000.it/tv2000_main.m3u8
+https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
 #EXTINF:-1,[29] LA7d
 https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live_1280x720_.m3u8
 #EXTINF:-1,[30] La 5
-https://live3.msf.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(ka)/manifest.mpd
+https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(ka)/manifest.mpd
 #EXTINF:-1,[31] Real Time
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8
 #EXTINF:-1,[32] QVC
@@ -49,9 +49,9 @@ https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
 #EXTINF:-1,[33] FOOD NETWORK
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/master.m3u8
 #EXTINF:-1,[34] Cine34
-https://live3.msf.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(b6)/manifest.mpd
+https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(b6)/manifest.mpd
 #EXTINF:-1,[35] FOCUS
-https://live3.msf.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(fu)/manifest.mpd
+https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(fu)/manifest.mpd
 #EXTINF:-1,[36] RTL 102.5
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
 #EXTINF:-1,[37] GM24
@@ -59,9 +59,9 @@ https://streaming.softwarecreation.it/GM24/GM24/playlist.m3u8
 #EXTINF:-1,[38] Giallo
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8
 #EXTINF:-1,[39] Top Crime
-https://live3.msf.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(lt)/manifest.mpd
+https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(lt)/manifest.mpd
 #EXTINF:-1,[40] Boing
-https://live3.msf.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(kb)/manifest.mpd
+https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(kb)/manifest.mpd
 #EXTINF:-1,[42] Rai Gulp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953
@@ -69,7 +69,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899
 #EXTINF:-1,[46] Cartoonito
-https://live3.msf.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(la)/manifest.mpd
+https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(la)/manifest.mpd
 #EXTINF:-1,[47] Super!
 https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@357018/master.m3u8
 #EXTINF:-1,[48] Rai News 24
@@ -80,23 +80,32 @@ https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/master.m3u8
 #EXTINF:-1,[50] Sky TG24
 https://skyanywhere3-i.akamaihd.net/hls/live/510696/tg24/playlist.m3u8
 #EXTINF:-1,[51] TGCOM 24
-https://live3.msf.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(kf)/manifest.mpd
+https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(kf)/manifest.mpd
 #EXTINF:-1,[52] Dmax
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8
 #EXTINF:-1,[54] Rai Storia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990
 #EXTINF:-1,[55] Mediaset Extra
-https://live3.msf.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(kq)/manifest.mpd
-#EXTINF:-1,[57] Rai Sport +
+https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(kq)/manifest.mpd
+#EXTINF:-1,[57] Rai Sport + HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025
+#EXTINF:-1,[58] Rai Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358071
 #EXTINF:-1,[59] Motor Trend
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
+#EXTINF:-1,[60] Sportitalia
+https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd_480p/chunklist.m3u8
+#EXTINF:-1,[61] Solocalcio
+https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8
+#EXTINF:-1,[64] Supertennis
+https://eclexiafitms.streaming.mediaservices.windows.net/d4647546-f787-4cd1-a0a1-9d9c492c5bc0/f60ccca6-cca6-4bf8-b65d-47ceb9b3bbe9.ism/manifest(format=mpd-time-csf)
 #EXTINF:-1,[65] ALMA TV
 https://streaming.softwarecreation.it/AlmaTv/AlmaTv/playlist.m3u8
 #EXTINF:-1,[66] Italia 2
-https://live3.msf.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(i2)/manifest.mpd
+https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(i2)/manifest.mpd
 #EXTINF:-1,[67] VH1
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 #EXTINF:-1,[69] Deejay TV
@@ -109,18 +118,31 @@ https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011
 #EXTINF:-1,[157] Radio 105 TV
-https://live3.msr.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(EC)/manifest.mpd
+https://live3.msr.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(ec)/manifest.mpd
 #EXTINF:-1,[158] RADIO KISS KISS TV
 https://58d921499d3d3.streamlock.net/KissKissTV/KissKissTV.stream/playlist.m3u8
 #EXTINF:-1,[167] R101 TV
-https://live3.msr.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(ER)/manifest.mpd
+https://live3.msr.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(er)/manifest.mpd
+#EXTINF:-1,[203] Rai Radio 2 Visual
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080
+#EXTINF:-1,[233] RTL 102.5 News
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
 #EXTINF:-1,[257] VIRGIN RADIO
-https://live3.msr.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(EW)/manifest.mpd
+https://live3.msr.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(ew)/manifest.mpd
 #EXTINF:-1,[258] RADIOFRECCIA
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
+#EXTINF:-1,[262] Byoblu
+https://09bd1346f7a44cc9ac230cc1cb22ca4f.msvdn.net/live/S39249178/EnTK3KeeN1Eg/playlist.m3u8
 #EXTINF:-1,[265] RDS Social TV
 https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8
 #EXTINF:-1,[266] RADIO ZETA
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
+#EXTINF:-1,[713] Radio Capital TV
+http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
+#EXTINF:-1,[715] M2O TV
+https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
 #EXTINF:-1,[772] Radio Montecarlo TV
-https://live3.msr.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(BB)/manifest.mpd
+https://live3.msr.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(bb)/manifest.mpd
+#EXTINF:-1,[831] RTV San Marino
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b1692000_slita.m3u8
