@@ -121,7 +121,7 @@ https://eclexiafitms.streaming.mediaservices.windows.net/d4647546-f787-4cd1-a0a1
 https://streaming.softwarecreation.it/AlmaTv/AlmaTv/playlist.m3u8
 #EXTINF:-1,[66] Radio 105 TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live3.msr.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(ec)/manifest.mpd
+https://live2-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(ec)/index.m3u8
 #EXTINF:-1,[67] VH1
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 #EXTINF:-1,[69] Deejay TV
@@ -137,7 +137,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011
 https://58d921499d3d3.streamlock.net/KissKissTV/KissKissTV.stream/playlist.m3u8
 #EXTINF:-1,[167] R101 TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live3.msr.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(er)/manifest.mpd
+https://live2-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(er)/index.m3u8
 #EXTINF:-1,[203] Rai Radio 2 Visual
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080
@@ -145,7 +145,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
 #EXTINF:-1,[257] VIRGIN RADIO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live3.msr.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(ew)/manifest.mpd
+https://live2-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(ew)/index.m3u8
 #EXTINF:-1,[258] RADIOFRECCIA
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
 #EXTINF:-1,[265] RDS Social TV
@@ -158,6 +158,6 @@ http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
 https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
 #EXTINF:-1,[772] Radio Montecarlo TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live3.msr.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(bb)/manifest.mpd
+https://live2-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(bb)/index.m3u8
 #EXTINF:-1,[831] RTV San Marino
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b1692000_slita.m3u8
