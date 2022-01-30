@@ -12,7 +12,7 @@ Apri [**questo link**](https://github.com/Tundrak/IPTV-Italia/releases) e scaric
 |    **iptvita.m3u**  |   https://github.com/Tundrak/IPTV-Italia/raw/main/iptvita.m3u    |
 |--------------------:|:----------------------------------------------------------------:|
 | **iptvitaplus.m3u** | https://github.com/Tundrak/IPTV-Italia/raw/main/iptvitaplus.m3u  |
-| **ipradioita.m3u**  |   https://github.com/Tundrak/IPTV-Italia/raw/main/iptvita.m3u    |
+| **ipradioita.m3u**  |  https://github.com/Tundrak/IPTV-Italia/raw/main/ipradioita.m3u  |
 
 # Cosa contiene
 Al momento i due file contengono i seguenti canali TV e radio:
