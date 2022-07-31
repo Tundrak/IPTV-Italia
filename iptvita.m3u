@@ -121,9 +121,6 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/p
 https://radioitaliasmi.akamaized.net/hls/live/2093120/RISMI/master.m3u8
 #EXTINF:-1,[145] Padre Pio TV
 https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
-#EXTINF:-1,[146] Rai Sport
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358071&output=16
 #EXTINF:-1,[158] RADIO KISS KISS TV
 https://58d921499d3d3.streamlock.net/KissKissTV/KissKissTV.stream/playlist.m3u8
 #EXTINF:-1,[167] VH1
