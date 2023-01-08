@@ -57,8 +57,6 @@ https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(b6)/
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(fu)/index.m3u8
 #EXTINF:-1,[36] RTL 102.5
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
-#EXTINF:-1,[37] GM24
-https://streaming.softwarecreation.it/GM24/GM24/playlist.m3u8
 #EXTINF:-1,[39] Top Crime
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(lt)/index.m3u8
@@ -75,7 +73,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(la)/index.m3u8
 #EXTINF:-1,[47] Super!
-https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@357018/master.m3u8
+https://vimnitaly.akamaized.net/hls/live/2094034/super/master.m3u8
 #EXTINF:-1,[48] Rai News 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=16
@@ -83,7 +81,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(i2)/index.m3u8
 #EXTINF:-1,[50] Sky TG24
-https://skyanywhere3-i.akamaihd.net/hls/live/510696/tg24/playlist.m3u8
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnea=st=1639498341~exp=1702463400~acl=/*~hmac=c3c4c2de19ff0df4b4bb20587ce59af5232eadab2995f445b7506525413805dd
 #EXTINF:-1,[51] TGCOM 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(kf)/index.m3u8
@@ -100,11 +98,13 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=16
 #EXTINF:-1,[60] Sportitalia
-https://sportitaliaamd.akamaized.net/video_0/Sportitalia/hls/B4DF7411EF2D38AD98B7D9FA9612B9753F214EFA/index.m3u8
-#EXTINF:-1,[61] Solocalcio
-https://sportitaliaamd.akamaized.net/video_0/Sportitalia/hls/A35A86245F13B326BB177D133E45311C8D046D71/index.m3u8
+https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8
+#EXTINF:-1,[61] Campionesport
+https://5f22d76e220e1.streamlock.net/campionesport/campionesport/playlist.m3u8
 #EXTINF:-1,[62] Donna TV
 https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8
+#EXTINF:-1,[63] GM24
+https://streaming.softwarecreation.it/GM24/GM24/playlist.m3u8
 #EXTINF:-1,[64] Supertennis
 https://supertennix-l3-live1.secure.footprint.net/restreamer/supertennix_client/gpu-a-c0-16/restreamer/rtmp/hls/h24_supertennix/manifest.m3u8
 #EXTINF:-1,[65] ALMA TV
@@ -115,10 +115,12 @@ https://live2-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channe
 #EXTINF:-1,[67] R101 TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live2-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(er)/index.m3u8
+#EXTINF:-1,[68] BOM CHANNEL
+https://5f22d76e220e1.streamlock.net/canale6/canale6/playlist.m3u8
 #EXTINF:-1,[69] Deejay TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
 #EXTINF:-1,[70] RadioItaliaTV
-https://radioitaliasmi.akamaized.net/hls/live/2093120/RISMI/master.m3u8
+https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
 #EXTINF:-1,[145] Padre Pio TV
 https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
 #EXTINF:-1,[158] RADIO KISS KISS TV
@@ -136,7 +138,7 @@ https://live2-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channe
 #EXTINF:-1,[258] RADIOFRECCIA
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
 #EXTINF:-1,[265] RDS Social TV
-https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8
+https://stream.rdstv.radio/index.m3u8
 #EXTINF:-1,[266] RADIO ZETA
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
 #EXTINF:-1,[713] Radio Capital TV
