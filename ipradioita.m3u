@@ -24,7 +24,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=173799&output=16
 #EXTINF:-1,[DAB] Rai GRParlamento
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=173879&output=16
 #EXTINF:-1,Radio Sportiva
-https://mediahit.inmystream.it:9000/stream
+https://sportiva.inmystream.it/stream/sportiva
 #EXTINF:-1,RTL 102.5
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_audio.m3u8
 #EXTINF:-1,Radio Freccia
@@ -35,8 +35,6 @@ https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/pl
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/playlist_audio.m3u8
 #EXTINF:-1,[DAB] RTL 102.5 Bro&Sis
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S75007890/MUGHuxc9dQ3b/playlist_audio.m3u8
-#EXTINF:-1,[DAB] RTL 102.5 Guardia Costiera
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S74387724/i1n4kZcs4Ah8/playlist_audio.m3u8
 #EXTINF:-1,[DAB] RTL 102.5 Romeo&Juliet
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/playlist_audio.m3u8
 #EXTINF:-1,[DAB] RTL 102.5 Napulè
