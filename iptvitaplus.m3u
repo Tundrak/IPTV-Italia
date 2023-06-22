@@ -1,12 +1,15 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Rai1.it" tvg-chno="1" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai1.png" group-title="Rai",Rai 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:audio-track-id=6
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=16
 #EXTINF:-1 tvg-id="Rai2.it" tvg-chno="2" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai2.png" group-title="Rai",Rai 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:audio-track-id=6
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=16
 #EXTINF:-1 tvg-id="Rai3.it" tvg-chno="3" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai3.png" group-title="Rai",Rai 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:audio-track-id=6
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=16
 #EXTINF:-1 tvg-id="Rete4.it" tvg-chno="4" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rete4.png" group-title="Mediaset",Rete 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -26,15 +29,18 @@ http://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hd
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(lb)/index.m3u8
 #EXTINF:-1 tvg-id="Rai4.it" tvg-chno="21" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai4.png" group-title="Rai",Rai 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:audio-track-id=6
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=16
 #EXTINF:-1 tvg-id="Iris.it" tvg-chno="22" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/iris.png" group-title="Mediaset",Iris
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(ki)/index.m3u8
 #EXTINF:-1 tvg-id="Rai5.it" tvg-chno="23" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai5.png" group-title="Rai",Rai 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:audio-track-id=6
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=16
 #EXTINF:-1 tvg-id="RaiMovie.it" tvg-chno="24" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raimovie.png" group-title="Rai",Rai Movie
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:audio-track-id=6
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=16
 #EXTINF:-1 tvg-id="RaiPremium.it" tvg-chno="25" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raipremium.png" group-title="Rai",Rai Premium
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -107,8 +113,6 @@ https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8
 https://5f22d76e220e1.streamlock.net/campionesport/campionesport/playlist.m3u8
 #EXTINF:-1 tvg-id="DonnaTV.it" tvg-chno="62" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/donnatv.png" group-title="Altro",Donna TV
 https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8
-#EXTINF:-1 tvg-id="GM24.it" tvg-chno="63" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/gm24.png" group-title="Altro",GM24
-https://streaming.softwarecreation.it/GM24/GM24/playlist.m3u8
 #EXTINF:-1 tvg-id="SuperTennis.it" tvg-chno="64" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/supertennis.png" group-title="Altro",Supertennis
 https://supertennix-l3-live1.secure.footprint.net/restreamer/supertennix_client/gpu-a-c0-16/restreamer/rtmp/hls/h24_supertennix/manifest.m3u8
 #EXTINF:-1 tvg-id="AlmaTv.it" tvg-chno="65" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/almatv.png" group-title="Altro",ALMA TV
@@ -130,8 +134,6 @@ https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
 https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
 #EXTINF:-1 tvg-id="PadrePioTV.it" tvg-chno="145" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/padrepiotv.png" group-title="Altro",Padre Pio TV
 https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioKissKiss.it" tvg-chno="158" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radiokisskisstv.png" group-title="Radio",RADIO KISS KISS TV
-https://58d921499d3d3.streamlock.net/KissKissTV/KissKissTV.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="VH1.it" tvg-chno="167" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/vh1.png" group-title="Altro",VH1
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 #EXTINF:-1 tvg-id="RaiRadio2.it" tvg-chno="202" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rairadio2visual.png" group-title="Radio",Rai Radio 2 Visual
