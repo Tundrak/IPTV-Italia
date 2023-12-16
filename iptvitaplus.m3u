@@ -1,15 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Rai1.it" tvg-chno="1" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai1.png" group-title="Rai",Rai 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:audio-track-id=6
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=16
 #EXTINF:-1 tvg-id="Rai2.it" tvg-chno="2" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai2.png" group-title="Rai",Rai 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:audio-track-id=6
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=16
 #EXTINF:-1 tvg-id="Rai3.it" tvg-chno="3" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai3.png" group-title="Rai",Rai 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:audio-track-id=6
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=16
 #EXTINF:-1 tvg-id="Rete4.it" tvg-chno="4" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rete4.png" group-title="Mediaset",Rete 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -29,18 +26,15 @@ https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?h
 https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="Rai4.it" tvg-chno="21" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai4.png" group-title="Rai",Rai 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:audio-track-id=6
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=16
 #EXTINF:-1 tvg-id="Iris.it" tvg-chno="22" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/iris.png" group-title="Mediaset",Iris
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="Rai5.it" tvg-chno="23" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai5.png" group-title="Rai",Rai 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:audio-track-id=6
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=16
 #EXTINF:-1 tvg-id="RaiMovie.it" tvg-chno="24" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raimovie.png" group-title="Rai",Rai Movie
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:audio-track-id=6
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=16
 #EXTINF:-1 tvg-id="RaiPremium.it" tvg-chno="25" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raipremium.png" group-title="Rai",Rai Premium
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -161,5 +155,5 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/p
 https://live02-seg.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="RTVSanMarino.it" tvg-chno="831" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rtvsanmarino.png" group-title="Radio",RTV San Marino
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b1692000_slita.m3u8
-#EXTINF:-1 tvg-id="RadioTvSerieA.it" tvg-chno="899" tvg-logo="https://i.imgur.com/MnjiF8C.png" group-title="Radio",Radio TV Serie A con RDS
+#EXTINF:-1 tvg-id="RadioTvSerieA.it" tvg-chno="899" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radiotvseriea.png" group-title="Radio",Radio TV Serie A con RDS
 https://stream.radioseriea.com/50773f0d0070476a8612d9984c6059d8/index.m3u8
