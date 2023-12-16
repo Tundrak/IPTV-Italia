@@ -10,26 +10,26 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=16
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=16
 #EXTINF:-1,[4] Rete 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
+https://live03-col.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/manifest.mpd
 #EXTINF:-1,[5] Canale 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
+https://live03-col.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/manifest.mpd
 #EXTINF:-1,[6] Italia 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
+https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest.mpd
 #EXTINF:-1,[7] LA7
 https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
 #EXTINF:-1,[8] TV8
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
 #EXTINF:-1,[20] 20
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
+https://live03-col.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/manifest.mpd
 #EXTINF:-1,[21] Rai 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=16
 #EXTINF:-1,[22] Iris
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8
+https://live03-col.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/manifest.mpd
 #EXTINF:-1,[23] Rai 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=16
@@ -43,30 +43,30 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=16
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
 #EXTINF:-1,[27] Twenty Seven
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8
+https://live03-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/manifest.mpd
 #EXTINF:-1,[28] TV2000
 https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
 #EXTINF:-1,[29] LA7d
 https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8
 #EXTINF:-1,[30] La 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
+https://live03-col.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/manifest.mpd
 #EXTINF:-1,[32] QVC
 https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
 #EXTINF:-1,[34] Cine34
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8
+https://live03-col.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/manifest.mpd
 #EXTINF:-1,[35] FOCUS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8
+https://live03-col.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/manifest.mpd
 #EXTINF:-1,[36] RTL 102.5
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
 #EXTINF:-1,[39] Top Crime
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
+https://live03-col.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/manifest.mpd
 #EXTINF:-1,[40] Boing
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live02-seg.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index.m3u8
+https://live03-col.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/manifest.mpd
 #EXTINF:-1,[42] Rai Gulp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=16
@@ -75,7 +75,7 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=16
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=16
 #EXTINF:-1,[46] Cartoonito
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live02-seg.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/index.m3u8
+https://live03-col.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/manifest.mpd
 #EXTINF:-1,[47] Super!
 https://vimnitaly.akamaized.net/hls/live/2094034/super/master.m3u8
 #EXTINF:-1,[48] Rai News 24
@@ -83,18 +83,18 @@ https://vimnitaly.akamaized.net/hls/live/2094034/super/master.m3u8
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=16
 #EXTINF:-1,[49] Italia 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live02-seg.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8
+https://live03-col.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/manifest.mpd
 #EXTINF:-1,[50] Sky TG24
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
 #EXTINF:-1,[51] TGCOM 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
+https://live03-col.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/manifest.mpd
 #EXTINF:-1,[54] Rai Storia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=16
 #EXTINF:-1,[55] Mediaset Extra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
+https://live03-col.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/manifest.mpd
 #EXTINF:-1,[57] Rai Scuola
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=16
@@ -113,10 +113,10 @@ https://supertennix-l3-live1.secure.footprint.net/restreamer/supertennix_client/
 https://streaming.softwarecreation.it/AlmaTv/AlmaTv/playlist.m3u8
 #EXTINF:-1,[66] Radio 105 TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live02-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8
+https://live03-col.msf.cdn.mediaset.net/live/ch-ec/ec-clr.isml/manifest.mpd
 #EXTINF:-1,[67] R101 TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live02-seg.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/index.m3u8
+https://live03-col.msf.cdn.mediaset.net/live/ch-er/er-clr.isml/manifest.mpd
 #EXTINF:-1,[68] BOM CHANNEL
 https://5f22d76e220e1.streamlock.net/canale6/canale6/playlist.m3u8
 #EXTINF:-1,[69] Deejay TV
@@ -139,7 +139,7 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=16
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
 #EXTINF:-1,[257] VIRGIN RADIO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live02-seg.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/index.m3u8
+https://live03-col.msf.cdn.mediaset.net/live/ch-ew/ew-clr.isml/manifest.mpd
 #EXTINF:-1,[258] RADIOFRECCIA
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
 #EXTINF:-1,[265] RDS Social TV
@@ -152,7 +152,7 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/p
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 #EXTINF:-1,[772] Radio Montecarlo TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live02-seg.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/index.m3u8
+https://live03-col.msf.cdn.mediaset.net/live/ch-bb/bb-clr.isml/manifest.mpd
 #EXTINF:-1,[831] RTV San Marino
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b1692000_slita.m3u8
 #EXTINF:-1,[899] Radio TV Serie A con RDS
