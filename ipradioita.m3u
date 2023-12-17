@@ -15,7 +15,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=173832&output=16
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=8842169&output=16
 #EXTINF:-1,[DAB] Rai Radio Kids
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=174086&output=16
-#EXTINF:-1,[DAB] Rai Radio Live
+#EXTINF:-1,[DAB] Rai Radio Live Napoli
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=174083&output=16
 #EXTINF:-1,[DAB] Rai Radio Techetè
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=174078&output=16
@@ -84,7 +84,7 @@ https://icy.unitedradio.it/um1030.mp3
 #EXTINF:-1,Radio Kisskiss
 https://ice08.fluidstream.net/KissKiss.aac
 #EXTINF:-1,Radio Italia
-https://radioitaliasmi.akamaized.net/hls/live/2093120/RISMI/stream02/streamPlaylist.m3u8
+https://radioitaliasmi.akamaized.net/hls/live/2093120/RISMI/master.m3u8
 #EXTINF:-1,[DAB] Radio Italia Trend
 https://stream4.xdevel.com/audio0s976608-1379/stream/icecast.audio
 #EXTINF:-1,[Web] Radio Italia Sanremo
