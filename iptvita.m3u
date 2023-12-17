@@ -102,21 +102,21 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=16
 #EXTINF:-1,[60] Sportitalia
-https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8
+https://sportitaliaamd.akamaized.net/video_0/Sportitalia/hls/F59D8EB0332E783633CDDE8E265844975635D24F/index.m3u8
 #EXTINF:-1,[61] Campionesport
 https://5f22d76e220e1.streamlock.net/campionesport/campionesport/playlist.m3u8
 #EXTINF:-1,[62] Donna TV
-https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8
+https://sportitaliaamd.akamaized.net/video_0/Donna_TV/hls/42EB42E58EA44362045EFEA804E3FCF0DB33C481/index.m3u8
 #EXTINF:-1,[64] Supertennis
 https://supertennix-l3-live1.secure.footprint.net/restreamer/supertennix_client/gpu-a-c0-16/restreamer/rtmp/hls/h24_supertennix/manifest.m3u8
 #EXTINF:-1,[65] ALMA TV
 https://streaming.softwarecreation.it/AlmaTv/AlmaTv/playlist.m3u8
 #EXTINF:-1,[66] Radio 105 TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live03-col.msf.cdn.mediaset.net/live/ch-ec/ec-clr.isml/manifest.mpd
+https://live02-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8
 #EXTINF:-1,[67] R101 TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live03-col.msf.cdn.mediaset.net/live/ch-er/er-clr.isml/manifest.mpd
+https://live02-seg.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/index.m3u8
 #EXTINF:-1,[68] BOM CHANNEL
 https://5f22d76e220e1.streamlock.net/canale6/canale6/playlist.m3u8
 #EXTINF:-1,[69] Deejay TV
@@ -139,9 +139,11 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=16
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
 #EXTINF:-1,[257] VIRGIN RADIO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live03-col.msf.cdn.mediaset.net/live/ch-ew/ew-clr.isml/manifest.mpd
+https://live02-seg.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/index.m3u8
 #EXTINF:-1,[258] RADIOFRECCIA
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
+#EXTINF:-1,[262] Byoblu
+https://09bd1346f7a44cc9ac230cc1cb22ca4f.msvdn.net/live/S39249178/EnTK3KeeN1Eg/playlist.m3u8
 #EXTINF:-1,[265] RDS Social TV
 https://stream.rdstv.radio/index.m3u8
 #EXTINF:-1,[266] RADIO ZETA
@@ -152,7 +154,7 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/p
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 #EXTINF:-1,[772] Radio Montecarlo TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live03-col.msf.cdn.mediaset.net/live/ch-bb/bb-clr.isml/manifest.mpd
+https://live02-seg.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/index.m3u8
 #EXTINF:-1,[831] RTV San Marino
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b1692000_slita.m3u8
 #EXTINF:-1,[899] Radio TV Serie A con RDS
