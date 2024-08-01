@@ -23,7 +23,7 @@ https://d3749synfikwkv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
 #EXTINF:-1,[9] NOVE
 https://amg16146-wbdi-amg16146c1-samsung-it-1831.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-nove-samsungit/playlist.m3u8
-#EXTINF:-1,[20] 20
+#EXTINF:-1,[20] 20 Mediaset
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/manifest.mpd
 #EXTINF:-1,[21] Rai 4
@@ -43,14 +43,14 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&force
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=raiplayappletv
 #EXTINF:-1,[26] Cielo
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
-#EXTINF:-1,[27] Twenty Seven
+#EXTINF:-1,[27] 27 Twentyseven
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/manifest.mpd
 #EXTINF:-1,[28] TV2000
 https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
 #EXTINF:-1,[29] LA7d
 https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS/Live.m3u8
-#EXTINF:-1,[30] La 5
+#EXTINF:-1,[30] La5
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/manifest.mpd
 #EXTINF:-1,[31] Real Time
@@ -62,7 +62,7 @@ https://amg16146-wbdi-amg16146c3-samsung-it-1836.playouts.now.amagi.tv/playlist/
 #EXTINF:-1,[34] Cine34
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/manifest.mpd
-#EXTINF:-1,[35] FOCUS
+#EXTINF:-1,[35] Focus
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/manifest.mpd
 #EXTINF:-1,[36] RTL 102.5
@@ -100,11 +100,13 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUserA
 https://live03-col.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/manifest.mpd
 #EXTINF:-1,[50] Sky TG24
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
-#EXTINF:-1,[51] TGCOM 24
+#EXTINF:-1,[51] TGcom24
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/manifest.mpd
 #EXTINF:-1,[52] DMAX
 https://amg16146-wbdi-amg16146c8-samsung-it-1841.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-dmax-samsungit/playlist.m3u8
+#EXTINF:-1,[53] Casa Italia 53
+https://liveac115.b-cdn.net/canale3.smil/playlist.m3u8
 #EXTINF:-1,[54] Rai Storia
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forceUserAgent=raiplayappletv
@@ -123,55 +125,109 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&force
 https://amg16146-wbdi-amg16146c10-samsung-it-1843.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-motortrend-samsungit/playlist.m3u8
 #EXTINF:-1,[60] Sportitalia
 https://sportitaliaamd.akamaized.net/live/Sportitalia/hls/F59D8EB0332E783633CDDE8E265844975635D24F/index.m3u8
+#EXTINF:-1,[61] Travel TV
+https://traveltv.grupposciscione.knoxstreaming.com/live/masterpl.m3u8
 #EXTINF:-1,[62] Donna TV
-https://sportitaliaamd.akamaized.net/live/Donna_TV/hls/42EB42E58EA44362045EFEA804E3FCF0DB33C481/index.m3u8
-#EXTINF:-1,[64] Supertennis
+https://donnatv.grupposciscione.knoxstreaming.com/live/masterpl.m3u8
+#EXTINF:-1,[64] SuperTennis
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/rtmp/hls/h24_supertennix/manifest.m3u8
-#EXTINF:-1,[65] ALMA TV
-https://streaming.softwarecreation.it/AlmaTv/AlmaTv/playlist.m3u8
+#EXTINF:-1,[65] Alma TV
+https://almatv.grupposciscione.knoxstreaming.com/live/masterpl.m3u8
 #EXTINF:-1,[66] Radio 105 TV
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/manifest.mpd
 #EXTINF:-1,[67] R101 TV
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/manifest.mpd
-#EXTINF:-1,[68] BOM CHANNEL
+#EXTINF:-1,[68] BOM Channel
 https://5f22d76e220e1.streamlock.net/canale6/canale6/playlist.m3u8
 #EXTINF:-1,[69] Deejay TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
-#EXTINF:-1,[70] RadioItaliaTV
+#EXTINF:-1,[70] Radio Italia TV
 https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
+#EXTINF:-1,[71] Canale Italia
+https://liveac115.b-cdn.net/canale1.smil/playlist.m3u8
 #EXTINF:-1,[101] Rai 4K (HbbTV)
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
+#EXTINF:-1,[122] Cusano Italia TV
+https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8
+#EXTINF:-1,[123] Italia Channel
+https://stream1.aswifi.it/italiachannel/stream/index.m3u8
+#EXTINF:-1,[133] Arte Investimenti
+https://5a1178b42cc03.streamlock.net/chiossone/chiossone/playlist.m3u8
+#EXTINF:-1,[138] Telecampione
+https://5f22d76e220e1.streamlock.net/telecampione/telecampione/playlist.m3u8
+#EXTINF:-1,[139] Deluxe 139
+https://59d7d6f47d7fc.streamlock.net/pierstyle/pierstyle/playlist.m3u8
 #EXTINF:-1,[145] Padre Pio TV
 https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
-#EXTINF:-1,[158] RADIO KISS KISS TV
+#EXTINF:-1,[151] EQUtv
+https://ippicabetflag-live.morescreens.com/IPPICA_1_003/playlist.m3u8
+#EXTINF:-1,[152] Tesory Channel
+https://155905.global.ssl.fastly.net/60c888bf1dbff32e46b3304d/live_f64a08e02a9a11ec81174bd4ce952c0e/index.fmp4.m3u8
+#EXTINF:-1,[157] Fascino TV
+https://5f22d76e220e1.streamlock.net/canale157/canale157/playlist.m3u8
+#EXTINF:-1,[158] Radio Kiss Kiss TV
 https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
+#EXTINF:-1,[163] Odeon 24
+https://odeon.grupposciscione.knoxstreaming.com/live/masterpl.m3u8
+#EXTINF:-1,[165] Fascino TV 165
+https://5f22d76e220e1.streamlock.net/italialotto/italialotto/playlist.m3u8
+#EXTINF:-1,[166] Orler TV
+https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8
 #EXTINF:-1,[202] Rai Radio 2 Visual
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1,[226] Welcome In
+https://fms.premio.link/welcomein/playlist.m3u8
+#EXTINF:-1,[232] StudioPiù
+https://5a1178b42cc03.streamlock.net/studiopiutv/studiopiutv/playlist.m3u8
 #EXTINF:-1,[233] RTL 102.5 News
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
-#EXTINF:-1,[257] VIRGIN RADIO
+#EXTINF:-1,[234] Cusano News 7
+https://router.xdevel.com/video1s975363-1596/stream/playlist.m3u8
+#EXTINF:-1,[240] Genius 240
+https://stream-cdn-iad2.vaughnsoft.net/play/live_geniussrl.flv
+#EXTINF:-1,[242] Sicilia 242
+https://5f22d76e220e1.streamlock.net/sicilia24/sicilia24/playlist.m3u8
+#EXTINF:-1,[245] Parole di Vita
+https://64b16f23efbee.streamlock.net/paroledivita/paroledivita/playlist.m3u8
+#EXTINF:-1,[246] Radio 24
+https://ilsole24ore-radiovisual.akamaized.net/hls/live/2035302/stream/stream.m3u8
+#EXTINF:-1,[248] TCI
+https://tbn-jw.cdn.vustreams.com/live/tci/live.isml/2b7d53c5-b504-4d26-b25f-a70deb8d0faf.m3u8
+#EXTINF:-1,[252] Radio Libertà
+https://router.xdevel.com/video0s975360-67/stream/playlist_dvr.m3u8
+#EXTINF:-1,[253] Radio Radio TV
+https://200912.global.ssl.fastly.net/646b335e2291a2022444bb7c/live_22f84390fe1411ed919df3da85a483cc/rewind-14400.m3u8
+#EXTINF:-1,[257] Virgin Radio
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/manifest.mpd
-#EXTINF:-1,[258] RADIOFRECCIA
+#EXTINF:-1,[258] Radiofreccia
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
+#EXTINF:-1,[259] BIKE
+https://66286fdeb96da.streamlock.net/BikeChannel/Bikechannel/playlist.m3u8
 #EXTINF:-1,[262] Byoblu
 https://09bd1346f7a44cc9ac230cc1cb22ca4f.msvdn.net/live/S39249178/EnTK3KeeN1Eg/playlist.m3u8
 #EXTINF:-1,[265] RDS Social TV
 https://stream.rdstv.radio/index.m3u8
-#EXTINF:-1,[266] RADIO ZETA
+#EXTINF:-1,[266] Radio Zeta
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
+#EXTINF:-1,[410] Business24
+http://fms.premio.link/business24/index.m3u8
+#EXTINF:-1,[441] DolomitiLifeTV
+https://fms.premio.link/dolomitilifetv/playlist.m3u8
 #EXTINF:-1,[713] Radio Capital TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
 #EXTINF:-1,[715] M2O TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
-#EXTINF:-1,[772] Radio Montecarlo TV
+#EXTINF:-1,[772] Radio Monte Carlo TV
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/manifest.mpd
 #EXTINF:-1,[831] RTV San Marino
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b2192000_slita.m3u8
+#EXTINF:-1,[833] SuperSix
+https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
 #EXTINF:-1,[899] Radio TV Serie A con RDS
 https://stream.radioseriea.com/50773f0d0070476a8612d9984c6059d8/index.m3u8
