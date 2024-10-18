@@ -1,159 +1,159 @@
 #EXTM3U
-#EXTINF:-1,Rai Radio 1
+#EXTINF:-1 radio="true",Rai Radio 1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=162834&output=16
-#EXTINF:-1,Rai Radio 2
+#EXTINF:-1 radio="true",Rai Radio 2
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=162063&output=16
-#EXTINF:-1,Rai Radio 3
+#EXTINF:-1 radio="true",Rai Radio 3
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=162841&output=16
-#EXTINF:-1,Rai Isoradio
+#EXTINF:-1 radio="true",Rai Isoradio
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=173875&output=16
-#EXTINF:-1,[DAB] Rai Radio 1 Sport
+#EXTINF:-1 radio="true",[DAB] Rai Radio 1 Sport
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=8842124&output=16
-#EXTINF:-1,[DAB] Rai Radio 3 Classica
+#EXTINF:-1 radio="true",[DAB] Rai Radio 3 Classica
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=173832&output=16
-#EXTINF:-1,[DAB] No Name Radio
+#EXTINF:-1 radio="true",[DAB] No Name Radio
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=8842169&output=16
-#EXTINF:-1,[DAB] Rai Radio Kids
+#EXTINF:-1 radio="true",[DAB] Rai Radio Kids
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=174086&output=16
-#EXTINF:-1,[DAB] Rai Radio Live Napoli
+#EXTINF:-1 radio="true",[DAB] Rai Radio Live Napoli
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=174083&output=16
-#EXTINF:-1,[DAB] Rai Radio Techetè
+#EXTINF:-1 radio="true",[DAB] Rai Radio Techetè
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=174078&output=16
-#EXTINF:-1,[DAB] Rai Radio Tutta Italiana
+#EXTINF:-1 radio="true",[DAB] Rai Radio Tutta Italiana
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=173799&output=16
-#EXTINF:-1,[DAB] Rai GRParlamento
+#EXTINF:-1 radio="true",[DAB] Rai GRParlamento
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=173879&output=16
-#EXTINF:-1,Radio Sportiva
+#EXTINF:-1 radio="true",Radio Sportiva
 https://sportiva.inmystream.it/stream/sportiva
-#EXTINF:-1,RTL 102.5
+#EXTINF:-1 radio="true",RTL 102.5
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_audio.m3u8
-#EXTINF:-1,Radio Freccia
+#EXTINF:-1 radio="true",Radio Freccia
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_audio.m3u8
-#EXTINF:-1,Radio Zeta
+#EXTINF:-1 radio="true",Radio Zeta
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_audio.m3u8
-#EXTINF:-1,[DAB] RTL 102.5 Best
+#EXTINF:-1 radio="true",[DAB] RTL 102.5 Best
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/playlist_audio.m3u8
-#EXTINF:-1,[DAB] RTL 102.5 Bro&Sis
+#EXTINF:-1 radio="true",[DAB] RTL 102.5 Bro&Sis
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S75007890/MUGHuxc9dQ3b/playlist_audio.m3u8
-#EXTINF:-1,[DAB] RTL 102.5 Romeo&Juliet
+#EXTINF:-1 radio="true",[DAB] RTL 102.5 Romeo&Juliet
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/playlist_audio.m3u8
-#EXTINF:-1,[DAB] RTL 102.5 Napulè
+#EXTINF:-1 radio="true",[DAB] RTL 102.5 Napulè
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9AhuwKlhnZ/playlist_audio.m3u8
-#EXTINF:-1,[DAB] RTL 102.5 Doc
+#EXTINF:-1 radio="true",[DAB] RTL 102.5 Doc
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/playlist_audio.m3u8
-#EXTINF:-1,[DAB] RTL 102.5 News
+#EXTINF:-1 radio="true",[DAB] RTL 102.5 News
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_audio.m3u8
-#EXTINF:-1,Virgin Radio
+#EXTINF:-1 radio="true",Virgin Radio
 https://icy.unitedradio.it/Virgin.mp3
-#EXTINF:-1,[Web] Virgin Radio Classic Rock
+#EXTINF:-1 radio="true",[Web] Virgin Radio Classic Rock
 https://icy.unitedradio.it/VirginRockClassics.mp3
-#EXTINF:-1,[Web] Virgin Radio Rock Hits
+#EXTINF:-1 radio="true",[Web] Virgin Radio Rock Hits
 https://icy.unitedradio.it/VirginRockHits.mp3
-#EXTINF:-1,[Web] Virgin Radio Rock Ballads
+#EXTINF:-1 radio="true",[Web] Virgin Radio Rock Ballads
 https://icy.unitedradio.it/Virgin_06.mp3
-#EXTINF:-1,[Web] Virgin Radio Rock '70
+#EXTINF:-1 radio="true",[Web] Virgin Radio Rock '70
 https://icy.unitedradio.it/VirginRock70.mp3
-#EXTINF:-1,[Web] Virgin Radio Rock '80
+#EXTINF:-1 radio="true",[Web] Virgin Radio Rock '80
 https://icy.unitedradio.it/VirginRock80.mp3
-#EXTINF:-1,[Web] Virgin Radio Rock '90
+#EXTINF:-1 radio="true",[Web] Virgin Radio Rock '90
 https://icy.unitedradio.it/Virgin_03.mp3
-#EXTINF:-1,[Web] Virgin Radio Rock 2K
+#EXTINF:-1 radio="true",[Web] Virgin Radio Rock 2K
 https://icy.unitedradio.it/Virgin_02.mp3
-#EXTINF:-1,[Web] Virgin Radio Hard Rock
+#EXTINF:-1 radio="true",[Web] Virgin Radio Hard Rock
 https://icy.unitedradio.it/VirginHardRock.mp3
-#EXTINF:-1,[Web] Virgin Radio Rock Party
+#EXTINF:-1 radio="true",[Web] Virgin Radio Rock Party
 https://icy.unitedradio.it/VirginRockParty.mp3
-#EXTINF:-1,[Web] Virgin Radio Alternative Rock
+#EXTINF:-1 radio="true",[Web] Virgin Radio Alternative Rock
 https://icy.unitedradio.it/VirginRockAlternative.mp3
-#EXTINF:-1,[Web] Rockstar: AC/DC
+#EXTINF:-1 radio="true",[Web] Rockstar: AC/DC
 https://icy.unitedradio.it/um1026.mp3
-#EXTINF:-1,[Web] Rockstar: Guns N'Roses
+#EXTINF:-1 radio="true",[Web] Rockstar: Guns N'Roses
 https://icy.unitedradio.it/um1029.mp3
-#EXTINF:-1,[Web] Rockstar: Rolling Stones
+#EXTINF:-1 radio="true",[Web] Rockstar: Rolling Stones
 https://icy.unitedradio.it/VirginSpecialEvent.mp3
-#EXTINF:-1,[Web] Rockstar: Pink Floyd
+#EXTINF:-1 radio="true",[Web] Rockstar: Pink Floyd
 https://icy.unitedradio.it/VirginRogerWaters.mp3
-#EXTINF:-1,[Web] Rockstar: Queen
+#EXTINF:-1 radio="true",[Web] Rockstar: Queen
 https://icecast.unitedradio.it/Virgin_05.mp3
-#EXTINF:-1,[Web] Rockstar: Aerosmith
+#EXTINF:-1 radio="true",[Web] Rockstar: Aerosmith
 https://icy.unitedradio.it/um1028.mp3
-#EXTINF:-1,[Web] Rockstar: Bon Jovi
+#EXTINF:-1 radio="true",[Web] Rockstar: Bon Jovi
 https://icy.unitedradio.it/um1027.mp3
-#EXTINF:-1,[Web] Rockstar: Oasis
+#EXTINF:-1 radio="true",[Web] Rockstar: Oasis
 https://icy.unitedradio.it/um1030.mp3
-#EXTINF:-1,Radio Kisskiss
+#EXTINF:-1 radio="true",Radio Kisskiss
 https://ice08.fluidstream.net/KissKiss.aac
-#EXTINF:-1,Radio Italia
+#EXTINF:-1 radio="true",Radio Italia
 https://radioitaliasmi.akamaized.net/hls/live/2093120/RISMI/master.m3u8
-#EXTINF:-1,[DAB] Radio Italia Trend
+#EXTINF:-1 radio="true",[DAB] Radio Italia Trend
 https://stream4.xdevel.com/audio0s976608-1379/stream/icecast.audio
-#EXTINF:-1,[Web] Radio Italia Sanremo
+#EXTINF:-1 radio="true",[Web] Radio Italia Sanremo
 https://stream4.xdevel.com/audio2s976608-1381/stream/icecast.audio
-#EXTINF:-1,Radio Montecarlo
+#EXTINF:-1 radio="true",Radio Montecarlo
 https://edge.radiomontecarlo.net/RMC.mp3
-#EXTINF:-1,R101
+#EXTINF:-1 radio="true",R101
 https://icy.unitedradio.it/r101
-#EXTINF:-1,Radio Capital
+#EXTINF:-1 radio="true",Radio Capital
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiocapital/radiocapital/master_ma.m3u8
-#EXTINF:-1,[Web] Radio Capital Music
+#EXTINF:-1 radio="true",[Web] Radio Capital Music
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/capitalmusic/playlist.m3u8
-#EXTINF:-1,[Web] Radio Capital Classic Rock
+#EXTINF:-1 radio="true",[Web] Radio Capital Classic Rock
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/capitalclassicrock/playlist.m3u8
-#EXTINF:-1,[DAB] Radio Capital Funky Town
+#EXTINF:-1 radio="true",[DAB] Radio Capital Funky Town
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiocapitalfunkytown/radiocapitalfunkytown/master_ma.m3u8
-#EXTINF:-1,[Web] Radio Capital W L'Italia
+#EXTINF:-1 radio="true",[Web] Radio Capital W L'Italia
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/capitalwitalia/playlist.m3u8
-#EXTINF:-1,[Web] Radio Capital Soft
+#EXTINF:-1 radio="true",[Web] Radio Capital Soft
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/capitalsoft/playlist.m3u8
-#EXTINF:-1,Radio Deejay
+#EXTINF:-1 radio="true",Radio Deejay
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiodeejay/radiodeejay/master_ma.m3u8
-#EXTINF:-1,[DAB] Deejay 30 Songs
+#EXTINF:-1 radio="true",[DAB] Deejay 30 Songs
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiodeejay30songs/radiodeejay30songs/master_ma.m3u8
-#EXTINF:-1,[Web] Deejay 80
+#EXTINF:-1 radio="true",[Web] Deejay 80
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejay80/playlist.m3u8
-#EXTINF:-1,[Web] Deejay Time
+#EXTINF:-1 radio="true",[Web] Deejay Time
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaytime/playlist.m3u8
-#EXTINF:-1,[Web] Deejay Tropical Pizza
+#EXTINF:-1 radio="true",[Web] Deejay Tropical Pizza
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaytropicalpizza/playlist.m3u8
-#EXTINF:-1,[Web] Deejay One Two One Two
+#EXTINF:-1 radio="true",[Web] Deejay One Two One Two
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejayonetwoonetwo/playlist.m3u8
-#EXTINF:-1,[Web] Radio Linetti
+#EXTINF:-1 radio="true",[Web] Radio Linetti
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaywfmlinus/playlist.m3u8
-#EXTINF:-1,[Web] Deejay Suona Italia
+#EXTINF:-1 radio="true",[Web] Deejay Suona Italia
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaysuonaitalia/playlist.m3u8
-#EXTINF:-1,[Web] Deejay Gasolina
+#EXTINF:-1 radio="true",[Web] Deejay Gasolina
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaygasolina/playlist.m3u8
-#EXTINF:-1,[Web] Deejay On The Road
+#EXTINF:-1 radio="true",[Web] Deejay On The Road
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejayontheroad/playlist.m3u8
-#EXTINF:-1,[Web] Deejay One Love
+#EXTINF:-1 radio="true",[Web] Deejay One Love
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejayonelove/playlist.m3u8
-#EXTINF:-1,Radio 105
+#EXTINF:-1 radio="true",Radio 105
 https://icy.unitedradio.it/Radio105.mp3
-#EXTINF:-1,Radio Subasio
+#EXTINF:-1 radio="true",Radio Subasio
 https://icy.unitedradio.it/Subasio.mp3
-#EXTINF:-1,[Web] Radio Subasio +
+#EXTINF:-1 radio="true",[Web] Radio Subasio +
 https://icy.unitedradio.it/SubasioPiu.mp3
-#EXTINF:-1,[Web] Radio Suby
+#EXTINF:-1 radio="true",[Web] Radio Suby
 https://icy.unitedradio.it/Suby.mp3
-#EXTINF:-1,[Web] Radio Subasio Collection
+#EXTINF:-1 radio="true",[Web] Radio Subasio Collection
 https://icy.unitedradio.it/SubasioCollection.mp3
-#EXTINF:-1,[Web] Radio Subasio Per un'ora d'Amore
+#EXTINF:-1 radio="true",[Web] Radio Subasio Per un'ora d'Amore
 https://icy.unitedradio.it/SubasioPerUnOraDAmore.mp3
-#EXTINF:-1,Radio Radicale
+#EXTINF:-1 radio="true",Radio Radicale
 https://live.radioradicale.it/live.mp3
-#EXTINF:-1,RDS
+#EXTINF:-1 radio="true",RDS
 https://stream.rds.radio/audio/rds.stream_aac/playlist.m3u8
-#EXTINF:-1,Radio 24
+#EXTINF:-1 radio="true",Radio 24
 https://ilsole24ore-radio.akamaized.net/hls/live/2035301/radio24/playlist.m3u8
-#EXTINF:-1,[DAB] ACI Radio
+#EXTINF:-1 radio="true",[DAB] ACI Radio
 https://nr7.newradio.it:18003/stream
-#EXTINF:-1,[DAB] Canale Italia +
+#EXTINF:-1 radio="true",[DAB] Canale Italia +
 https://rci.canaleitalia.tv:8007
-#EXTINF:-1,m2o
+#EXTINF:-1 radio="true",m2o
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/master_ma.m3u8
-#EXTINF:-1,Radio inBlu2000
+#EXTINF:-1 radio="true",Radio inBlu2000
 https://www.radioinblu.it/live-stream/inblu2000-playlist.m3u8
-#EXTINF:-1,Radio Maria
+#EXTINF:-1 radio="true",Radio Maria
 https://dreamsiteradiocp5.com/proxy/rmitalia
-#EXTINF:-1,[DAB] Radio Vaticana (Ita)
+#EXTINF:-1 radio="true",[DAB] Radio Vaticana (Ita)
 https://radio.vaticannews.va/stream-it
